@@ -84,17 +84,17 @@ speller:
   delimiter: " "
   algebra:
     - derive/^([a-z][a-z]|[a-z][A-Z]|[A-Z][a-z]);([A-Z])([A-Z])([A-Z])([A-Z])([A-Z])([A-Z])$/$1/
-    - derive/^([a-z][a-z]|[a-z][A-Z]|[A-Z][a-z]);([A-Z])([A-Z])([A-Z])([A-Z])([A-Z])([A-Z])$/$1/					#YY
-    - derive/^([a-z][a-z]|[a-z][A-Z]|[A-Z][a-z]);([A-Z])([A-Z])([A-Z])([A-Z])([A-Z])([A-Z])$/$1$2$3/				#YY[XX]
-    - derive/^([a-z][a-z]|[a-z][A-Z]|[A-Z][a-z]);([A-Z])([A-Z])([A-Z])([A-Z])([A-Z])([A-Z])$/$1$2$3$4$5/			#YY[XXXX]
-    - derive/^([a-z][a-z]|[a-z][A-Z]|[A-Z][a-z]);([A-Z])([A-Z])([A-Z])([A-Z])([A-Z])([A-Z])$/$1$2$3$4$5$6$7/		#YY[XXXXZZ]
+    - derive/^([a-z][a-z]|[a-z][A-Z]|[A-Z][a-z]);([A-Z])([A-Z])([A-Z])([A-Z])([A-Z])([A-Z])$/$1/          #YY
+    - derive/^([a-z][a-z]|[a-z][A-Z]|[A-Z][a-z]);([A-Z])([A-Z])([A-Z])([A-Z])([A-Z])([A-Z])$/$1$2$3/        #YY[XX]
+    - derive/^([a-z][a-z]|[a-z][A-Z]|[A-Z][a-z]);([A-Z])([A-Z])([A-Z])([A-Z])([A-Z])([A-Z])$/$1$2$3$4$5/      #YY[XXXX]
+    - derive/^([a-z][a-z]|[a-z][A-Z]|[A-Z][a-z]);([A-Z])([A-Z])([A-Z])([A-Z])([A-Z])([A-Z])$/$1$2$3$4$5$6$7/    #YY[XXXXZZ]
     #- abbrev/^(.).+$/$1/
 
 translator:
   dictionary: zrm_phone
   prism: zrm_phone
   user_dict: zrm.userdb
-  db_class: tabledb
+  db_class: userdb
   enable_encoder: true                  # 是否开启自动造词
   enable_sentence: true                 # 自动造句
   encode_commit_history: true           # 是否对已上屛词自动成词

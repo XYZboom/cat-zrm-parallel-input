@@ -96,7 +96,7 @@ translator:
   dictionary: zrm
   prism: zrm
   user_dict: zrm.userdb
-  db_class: tabledb
+  db_class: userdb
   enable_encoder: true                  # 是否开启自动造词
   enable_sentence: true                 # 自动造句
   encode_commit_history: true           # 是否对已上屛词自动成词
