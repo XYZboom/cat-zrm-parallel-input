@@ -4,6 +4,17 @@ patch:
     #chord_composer  # 实现并击按键处理
     lua_processor@*chord_composer_processor  # 实现并击按键处理
 
+  # 固词方案同步支持“声调 / 无声调”开关。
+  "switches/@6":
+    name: no_tone
+    states: [ 声调, 无声调 ]
+    reset: 0
+
+  "engine/translators/@4": lua_translator@*toneless_translator
+
+  "key_binder/bindings/+":
+    - { when: always, accept: "Control+Shift+t", toggle: no_tone }
+
   chord_composer:
     finish_chord_on_first_key_release: true #有一键被释放时立刻触发合成
     #finish_trigger_release_num: 2 #可以设置任意数量键释放后才触发合成，而不仅仅是一键，优先级高于前者first_key_release的配置

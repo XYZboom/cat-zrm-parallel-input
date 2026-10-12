@@ -1,0 +1,330 @@
+patch:
+
+  "engine/processors/@before 2":
+    chord_composer  # 实现并击按键处理
+    #lua_processor@*chord_composer_processor  # 实现并击按键处理
+
+  chord_composer:
+    finish_chord_on_first_key_release: true #有一键被释放时立刻触发合成
+    #finish_trigger_release_num: 2 #可以设置任意数量键释放后才触发合成，而不仅仅是一键，优先级高于前者first_key_release的配置
+
+    #alphabet: qazwsxedcrfvtgbyhnujmik,ol.p;/ `
+    alphabet: qazwsxedcrfvtgb12345yhnujmik,ol.p;/67890 `
+
+    algebra:
+    #
+    ##
+    # 预处理
+
+    # 符号和数字映射为大写字母，分离其转义干扰
+      - xlit|;,./|ACXZ|
+      #
+      # 声明空格所用的按键和其易于表达的变换编码
+      - xlit| |一| # 主空格
+      #- xlit|-|二| # 左手次空格
+      #- xlit|[|三| # 左手三空格
+      #- xlit|`|四| # 左手四空格
+      #- xlit|=|壹| # 右手空格
+      #- xlit|]|贰| # 右手次空格
+      #- xlit|'|叁| # 右手三空格
+      #- xlit|\|肆| # 右手四空格
+      # 这里启用了多个空格，理论上如果你还有空格可以再加，做空格的键不一样也可以直接改
+      # 增加空格需要在前面的字母表那里（允许接受并击的按键列表）添加
+    #
+
+    # 处理单手击的表示（添加下划线，表示另一手未击）  #允许存在单手配左右空格，允许单手数字区表示
+      - xform/^([qwertasdfgzxcvb12345]+)([一二三四五壹贰叁肆伍]*)$/$1_$2/
+      # xx => xx_
+      - xform/^([yuiophjklAnmCXZ67890]+)([一二三四五壹贰叁肆伍]*)$/_$1$2/
+      # yy => _yy
+      - xform/^([qwertasdfgzxcvb12345]+)([yuiophjklAnmCXZ67890]+)([一二三四五壹贰叁肆伍]*)$/$1$2$3/
+    #
+
+    # 将编码包装（用一对尖括号包裹起来）
+      - xform/([qwertasdfgzxcvb12345]+)/<$1>/
+      # 左手编码包装
+      - xform/([yuiophjklAnmCXZ67890]+)/<$1>/
+      # 右手编码包装
+      - xform/([一二三四五壹贰叁肆伍]+)/<$1>/
+      # 空格区编码包装
+
+
+
+    #
+    ##
+    # 主处理区（顺序可以随便排）
+
+      # 字母部分指法映射(齐列&标准) #被注释掉的部分是冲突的，其它的应该是一样的
+      # 没有经过仔细的校对，有问题的话可能得麻烦自己增改一下
+      - xform=(<zv>|<mZ>)=Q=
+      - xform=(<wv>|<no>)=W=
+      - xform=(<ev>|<ni>)=E=
+      - xform=(<et>|<yi>)=R=
+      - xform=(<qt>|<yp>)=T=
+      - xform=(<wt>|<yo>)=Y=
+      - xform=(<af>|<jA>)=U=
+      - xform=(<xv>|<mX>)=I=
+      - xform=(<aw>|<oA>)=O=
+      - xform=(<qf>|<jp>)=P=
+      - xform=(<wer>|<uio>)=/=
+      - xform=(<qwe>|<iop>)=\=
+      - xform=(<rt>|<yu>)=[=
+      - xform=(<ert>|<yui>)=]=
+      #
+      - xform=(<av>|<nA>)=A=
+      - xform=(<sv>|<nl>)=S=
+      - xform=(<dv>|<nk>)=D=
+      - xform=(<sg>|<hl>)=F=
+      - xform=(<dg>|<hk>)=G=
+      - xform=(<ar>|<uA>)=H=
+      - xform=(<xf>|<jX>)=J=
+      - xform=(<xc>|<CX>)=K=
+      - xform=(<sr>|<ul>)=L=
+      - xform=(<dc>|<mk>)=~=
+      - xform=(<fv>|<nj>)=|=
+      - xform=(<fg>|<hj>)=(=
+      - xform=(<dfg>|<hjk>)=)=
+      #
+      - xform=(<zf>|<jZ>)=Z=
+      - xform=(<xd>|<kX>)=X=
+      - xform=(<xb>|<nX>)=C=
+      - xform=(<zs>|<lZ>)=V=
+      - xform=(<qw>|<op>)=B=
+      - xform=(<se>|<il>)=N=
+      - xform=(<wd>|<ko>)=M=
+      - xform=(<at>|<yA>)=`=
+      - xform=(<zb>|<nZ>)=^=
+      - xform=(<zx>|<XZ>)=@=
+      - xform=(<vb>|<nm>)=$=
+      #
+      - xform=(<q>|<p>)=q=
+      - xform=(<w>|<o>)=w=
+      - xform=(<e>|<i>)=e=
+      - xform=(<r>|<u>)=r=
+      - xform=(<t>|<y>)=t=
+      - xform=(<ef>|<ji>)=y=
+      - xform=(<er>|<ui>)=u=
+      - xform=(<we>|<io>)=i=
+      - xform=(<wr>|<uo>)=o=
+      - xform=(<qr>|<up>)=p=
+      - xform=(<qe>|<ip>)=%=
+      - xform=(<wg>|<ho>)=-=
+#      - xform=(<qg>|<hp>)={equal}=
+      - xform/(<qg>|<hp>)/=/
+      #
+      - xform=(<a>|<A>)=a=
+      - xform=(<s>|<l>)=s=
+      - xform=(<d>|<k>)=d=
+      - xform=(<f>|<j>)=f=
+      - xform=(<g>|<h>)=g=
+      - xform=(<wf>|<jo>)=h=
+      - xform=(<df>|<jk>)=j=
+      - xform=(<sd>|<kl>)=k=
+      - xform=(<sf>|<jl>)=l=
+      - xform=(<as>|<lA>)=:=
+      - xform=(<ad>|<kA>)=;=
+      - xform=(<asd>|<klA>)='=
+      - xform=(<rf>|<uj>)=_=
+      - xform=(<rg>|<hu>)={braceleft}=
+      - xform=(<eg>|<hi>)=}=
+      #
+      - xform=(<z>|<Z>)=z=
+      - xform=(<x>|<X>)=x=
+      - xform=(<c>|<C>)=c=
+      - xform=(<v>|<m>)=v=
+      - xform=(<b>|<n>)=b=
+      - xform=(<sc>|<ml>)=n=
+      - xform=(<cv>|<mC>)=m=
+      - xform=(<sdf>|<jkl>)=,=
+      - xform=(<ag>|<hA>)=.=
+      - xform=(<wef>|<jio>)=!=
+      - xform=(<sef>|<jil>)=?=
+      - xform=(<zc>|<CZ>)=#=
+      - xform=(<zxc>|<CXZ>)=*=
+      - xform=(<xcv>|<mCX>)=&=
+      - xform=(<cvb>|<nmC>)=+=
+
+
+      # 数字部分指法映射
+      - xform=(<1>)=1=
+      - xform=(<2>)=2=
+      - xform=(<3>)=3=
+      - xform=(<4>)=4=
+      - xform=(<5>)=5=
+      - xform=(<35>)=6=
+      - xform=(<34>)=7=
+      - xform=(<23>)=8=
+      - xform=(<24>)=9=
+      - xform=(<14>)=0=
+      - xform=(<12>)=>=
+      - xform=(<13>)=<=
+      #
+      - xform=(<6>)=5=
+      - xform=(<7>)=4=
+      - xform=(<8>)=3=
+      - xform=(<9>)=2=
+      - xform=(<0>)=1=
+      - xform=(<68>)=6=
+      - xform=(<78>)=7=
+      - xform=(<89>)=8=
+      - xform=(<79>)=9=
+      - xform=(<70>)=0=
+      - xform=(<90>)=>=
+      - xform=(<80>)=<=
+
+      #- xform/^UU$/<1>/
+
+
+  # 空格组合区
+################################
+
+
+################## 单空格 ############
+      - xform|(.)_<一>|<"1>$1_|
+      - xform|_(.)<一>|<"1>_$1|
+      - xform|(..)<一>|<"1>$1|
+      - xform|^<一>|<1>|
+#####  使用多空格请先把这段单空格配置注释掉  #########################################
+
+  ########## 多空格 ############
+
+      #- xform|(.)_<一>|<"1>$1_|
+      #- xform|_(.)<一>|<"2>_$1|
+      #- xform|(..)<一>|$1<1>|
+      #- xform|^<一>|<1>|
+      #- xform|(.)_<壹>|<"2>$1_|
+      #- xform|_(.)<壹>|<"1>_$1|
+      #- xform|(..)<壹>|$1<1>|
+      #- xform|^<壹>|<2>|
+      #- xform|(.)_<一壹>|<"3>$1_|
+      #- xform|_(.)<一壹>|<"3>_$1|
+      #- xform|(..)<一壹>|$1<2>|
+      #- xform|^<一壹>|<3>|
+    # 符号标并
+      #- xform|(.)_<二>|$1_。|
+      #- xform|_(.)<二>|_$1。|
+      #- xform|(..)<二>|$1。|
+      #- xform|^<二>|<4>|
+      #- xform|(.)_<贰>|$1_，|
+      #- xform|_(.)<贰>|_$1，|
+      #- xform|(..)<贰>|$1，|
+      #- xform|^<贰>|<3>|
+      #- xform|(..)<二贰>|$1<5>|
+      #- xform|^<二贰>|<5>|
+
+
+###################################
+    #
+      - xform/<1>/ /
+      #- xform/<2>/-/
+      #- xform/<3>/`/
+      #- xform/<4>/=/
+      #- xform/<5>/'/
+      #- xform/<6>/\/
+
+
+      - xform/<"1>/"/
+      #- xform/<"2>/""/
+      #- xform/<"3>/"""/
+
+    #
+
+
+    #
+    ##
+    # 后处理
+
+      #- xform/_(`|~|\*|&|@|'|!)/$1_/
+      #- xform/^([0-9])([0-9])$/$1__$2/
+
+      - xform/^.*<.+>.*$//
+      # 屏蔽未定义的指法
+
+
+      - xform=，="""",=
+      - xform=。="""".=
+      - xform=！=""""!=
+      - xform=？=""""?=
+      # 符号转义的后处理
+
+
+    #
+
+    #
+    ##
+
+    prompt_format:
+    # 码元显示效果修正
+      - xform/"""",$/，/
+      - xform/""""\.$/。/
+      - xform/""""!$/！/
+      - xform/""""\?$/？/
+    #  - xform/(.+)/$1/
+    #output_format:
+    #  - xform/(.+)/$1/
+
+  # 可选无声调输入：全小写声母+韵母可以匹配全部声调；原大小写带调编码仍然有效。
+  "speller/algebra":
+    - derive/^([a-z])A(.*)$/$1a$2/
+    - derive/^([a-z])B(.*)$/$1b$2/
+    - derive/^([a-z])C(.*)$/$1c$2/
+    - derive/^([a-z])D(.*)$/$1d$2/
+    - derive/^([a-z])E(.*)$/$1e$2/
+    - derive/^([a-z])F(.*)$/$1f$2/
+    - derive/^([a-z])G(.*)$/$1g$2/
+    - derive/^([a-z])H(.*)$/$1h$2/
+    - derive/^([a-z])I(.*)$/$1i$2/
+    - derive/^([a-z])J(.*)$/$1j$2/
+    - derive/^([a-z])K(.*)$/$1k$2/
+    - derive/^([a-z])L(.*)$/$1l$2/
+    - derive/^([a-z])M(.*)$/$1m$2/
+    - derive/^([a-z])N(.*)$/$1n$2/
+    - derive/^([a-z])O(.*)$/$1o$2/
+    - derive/^([a-z])P(.*)$/$1p$2/
+    - derive/^([a-z])Q(.*)$/$1q$2/
+    - derive/^([a-z])R(.*)$/$1r$2/
+    - derive/^([a-z])S(.*)$/$1s$2/
+    - derive/^([a-z])T(.*)$/$1t$2/
+    - derive/^([a-z])U(.*)$/$1u$2/
+    - derive/^([a-z])V(.*)$/$1v$2/
+    - derive/^([a-z])W(.*)$/$1w$2/
+    - derive/^([a-z])X(.*)$/$1x$2/
+    - derive/^([a-z])Y(.*)$/$1y$2/
+    - derive/^([a-z])Z(.*)$/$1z$2/
+    - derive/^A([a-z])(.*)$/a$1$2/
+    - derive/^B([a-z])(.*)$/b$1$2/
+    - derive/^C([a-z])(.*)$/c$1$2/
+    - derive/^D([a-z])(.*)$/d$1$2/
+    - derive/^E([a-z])(.*)$/e$1$2/
+    - derive/^F([a-z])(.*)$/f$1$2/
+    - derive/^G([a-z])(.*)$/g$1$2/
+    - derive/^H([a-z])(.*)$/h$1$2/
+    - derive/^I([a-z])(.*)$/i$1$2/
+    - derive/^J([a-z])(.*)$/j$1$2/
+    - derive/^K([a-z])(.*)$/k$1$2/
+    - derive/^L([a-z])(.*)$/l$1$2/
+    - derive/^M([a-z])(.*)$/m$1$2/
+    - derive/^N([a-z])(.*)$/n$1$2/
+    - derive/^O([a-z])(.*)$/o$1$2/
+    - derive/^P([a-z])(.*)$/p$1$2/
+    - derive/^Q([a-z])(.*)$/q$1$2/
+    - derive/^R([a-z])(.*)$/r$1$2/
+    - derive/^S([a-z])(.*)$/s$1$2/
+    - derive/^T([a-z])(.*)$/t$1$2/
+    - derive/^U([a-z])(.*)$/u$1$2/
+    - derive/^V([a-z])(.*)$/v$1$2/
+    - derive/^W([a-z])(.*)$/w$1$2/
+    - derive/^X([a-z])(.*)$/x$1$2/
+    - derive/^Y([a-z])(.*)$/y$1$2/
+    - derive/^Z([a-z])(.*)$/z$1$2/
+    - derive/^([a-z][a-z]|[a-z][A-Z]|[A-Z][a-z]);([A-Z])([A-Z])([A-Z])([A-Z])([A-Z])([A-Z])$/$1/
+    - derive/^([a-z][a-z]|[a-z][A-Z]|[A-Z][a-z]);([A-Z])([A-Z])([A-Z])([A-Z])([A-Z])([A-Z])$/$1$2$3/
+    - derive/^([a-z][a-z]|[a-z][A-Z]|[A-Z][a-z]);([A-Z])([A-Z])([A-Z])([A-Z])([A-Z])([A-Z])$/$1$2$3$4$5/
+    - derive/^([a-z][a-z]|[a-z][A-Z]|[A-Z][a-z]);([A-Z])([A-Z])([A-Z])([A-Z])([A-Z])([A-Z])$/$1$2$3$4$5$6$7/
+
+
+__patch:
+# Rx: 语言模型 {
+  - patch/+:
+      __include: grammar:/octagram
+# }

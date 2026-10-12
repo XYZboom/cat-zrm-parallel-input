@@ -4,6 +4,30 @@ patch:
     chord_composer  # 实现并击按键处理
     #lua_processor@*chord_composer_processor  # 实现并击按键处理
 
+  # 只保留本地可用翻译器；网络翻译器缺少 simplehttp 会使候选链持续报错。
+  "engine/translators":
+    - punct_translator
+    - reverse_lookup_translator
+    - script_translator
+    - lua_translator@*pinyin_translator
+    - lua_translator@*system_translator
+    - lua_translator@*desc_translator
+    - lua_translator@*word_translator
+    - lua_translator@*unicode_translator
+    - lua_translator@*number_translator
+    - lua_translator@*english_translator
+    - lua_translator@*toneless_translator
+
+  # 猫师方案内开关：F4 方案菜单中可切换“声调 / 无声调”。
+  "switches/@6":
+    name: no_tone
+    states: [ 声调, 无声调 ]
+    reset: 0
+
+  # 猫师方案内快捷开关；也可以在 F4 选项菜单中切换。
+  "key_binder/bindings/+":
+    - { when: always, accept: "Control+Shift+t", toggle: no_tone }
+
   chord_composer:
     finish_chord_on_first_key_release: true #有一键被释放时立刻触发合成
     #finish_trigger_release_num: 2 #可以设置任意数量键释放后才触发合成，而不仅仅是一键，优先级高于前者first_key_release的配置
@@ -262,7 +286,6 @@ patch:
     #  - xform/(.+)/$1/
     #output_format: 
     #  - xform/(.+)/$1/
-
 
 __patch:
 # Rx: 语言模型 {

@@ -1,0 +1,199 @@
+schema:
+  schema_id: zrm_no_tone
+  name: 猫师自然码·并击（无声调）
+  version: "20231225"
+  author:
+    - undefined
+  description: |
+    自然码双拼并击方案
+
+
+switches:
+  - name: show_emoji
+    states: [ 🈲, Emoji ]
+    reset: 0
+  - name: show_other
+    states: [ 🈲, Other ]
+    reset: 0
+  - name: show_fan
+    states: [ 🈲, Fan ]
+    reset: 0
+  - name: show_chaifen
+    states: [ 🈲, Chaifen ]
+    reset: 0
+  - name: show_pinyin
+    states: [ 🈲, Pinyin ]
+    reset: 0
+  - name: show_jane
+    states: [ 🈲, Jane ]
+    reset: 0
+
+
+engine:
+  processors:
+    - ascii_composer #此处理器主要用于处理ASCII字符的输入。当您键入任何ASCII字符时，它可以确保这些字符被正确地解析和显示。
+    - recognizer #此处理器用于识别输入的字符和词组。它可以识别您输入的文本，然后将其转换为相应的候选词。
+    - key_binder #此处理器主要负责键盘按键的绑定。它可以将特定的按键绑定到特定的功能或命令上。
+    - lua_processor@*recorder_processor
+    - lua_processor@*suffix_processor
+    - lua_processor@*jane_processor
+    - lua_processor@*main_processor
+    - speller #此处理器用于拼写检查。它可以检查您输入的文本是否正确，并提供正确的拼写建议。
+    - punctuator #这个处理器负责标点符号的输入。它可以确保您输入的标点符号被正确地解析和显示。
+    - selector #此处理器用于从候选词列表中选择最佳的候选词。它可以根据您的输入和上下文信息来选择最佳的候选词。
+    - navigator #此处理器负责导航和移动光标。它可以帮助您在输入的文本中快速移动和定位。
+    - express_editor #此处理器用于编辑已输入的文本。它提供了一些基本的文本编辑功能，如复制、粘贴、删除等。
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - reverse_lookup_translator
+    - script_translator
+    #- history_translator@repeat_history
+    - lua_translator@*date_translator
+    - lua_translator@*pinyin_translator
+    - lua_translator@*system_translator
+    - lua_translator@*desc_translator
+    - lua_translator@*word_translator
+    - lua_translator@*unicode_translator
+    - lua_translator@*number_translator
+    - lua_translator@*english_translator
+    - lua_translator@*baidu_translator
+    - lua_translator@*c2e_translator
+    - lua_translator@*extend_translator
+    - lua_translator@*auto_translator
+  filters:
+    - simplifier
+    - uniquifier
+    - lua_filter@*desc_filter
+    - simplifier@emoji_conversion
+    - simplifier@other_conversion
+    - simplifier@fan_conversion
+    - simplifier@chaifen_conversion
+    - simplifier@pinyin_conversion
+    - simplifier@jane_conversion
+    #- reverse_lookup_filter@reverse_lookup_filter_ac_hint
+
+
+
+speller:
+  alphabet: QWERTYUIOPASDFGHJKL:ZXCVBNM<>?qwertyuiopasdfghjkl;zxcvbnm,./%~@*&_"|+^\`'!#$()[]{}-=1234567890
+  delimiter: " "
+  algebra:
+    - derive/^([a-z][a-z]|[a-z][A-Z]|[A-Z][a-z]);([A-Z])([A-Z])([A-Z])([A-Z])([A-Z])([A-Z])$/$1/          #YY
+    - derive/^([a-z][a-z]|[a-z][A-Z]|[A-Z][a-z]);([A-Z])([A-Z])([A-Z])([A-Z])([A-Z])([A-Z])$/$1$2$3/        #YY[XX]
+    - derive/^([a-z][a-z]|[a-z][A-Z]|[A-Z][a-z]);([A-Z])([A-Z])([A-Z])([A-Z])([A-Z])([A-Z])$/$1$2$3$4$5/      #YY[XXXX]
+    - derive/^([a-z][a-z]|[a-z][A-Z]|[A-Z][a-z]);([A-Z])([A-Z])([A-Z])([A-Z])([A-Z])([A-Z])$/$1$2$3$4$5$6$7/    #YY[XXXXZZ]
+    #- abbrev/^(.).+$/$1/
+
+translator:
+  dictionary: zrm
+  prism: zrm_no_tone
+  user_dict: zrm.userdb
+  db_class: tabledb
+  enable_encoder: true                  # 是否开启自动造词
+  enable_sentence: true                 # 自动造句
+  encode_commit_history: true           # 是否对已上屛词自动成词
+  max_phrase_length: 9                   # 最大自动成词词长
+  enable_completion: true               # 显示编码提示
+  sentence_over_completion: false        # 提前显示尚未输入完整码的字
+  enable_user_dict: true
+  initial_quality: 1
+  disable_user_dict_for_patterns:
+    - "^aw.*$"
+    - "^az.*$"
+  #comment_format:
+  #  - xform/([a-z][a-z]|[a-z][A-Z]|[A-Z][a-z])([A-Z][A-Z][A-Z][A-Z][A-Z][A-Z])/$1[$2]/
+  preedit_format:
+    - xform/([a-z][a-z]|[a-z][A-Z]|[A-Z][a-z])(([A-Z][A-Z])+)/$1«$2»/
+
+key_binder:
+  #import_preset: default
+  select_first_character: 'Shift+Shift_L'
+  select_last_character: 'Shift+Shift_R'
+  bindings:
+    #- { when: composing, accept: Shift+Shift_L, send: KP_2 }
+    #- { when: composing, accept: Shift+Shift_R, send: KP_3 }
+
+    - { when: composing, accept: "Return", send: "Escape" }
+    #- { when: composing, accept: Tab, send: "Shift+Right" }
+    - { when: composing, accept: Up, send: "Page_Up" }
+    - { when: composing, accept: Down, send: "Page_Down" }
+    - { when: composing, accept: Shift+Shift_L, send: Shift+Left }
+    - { when: composing, accept: Shift+Shift_R, send: Shift+Right }
+
+    #- { when: composing, accept: Super, send: "Shift+Left" }
+
+    #- { when: has_menu, accept: "Alt+Alt_R", send: Page_Down}
+    #- { when: has_menu, accept: "Alt+Alt_L", send: Page_Up}
+
+    # 功能
+    - { when: has_menu, accept: "Control+q", toggle: show_emoji}
+    - { when: has_menu, accept: "Control+w", toggle: show_other}
+    - { when: has_menu, accept: "Control+e", toggle: show_fan}
+    - { when: has_menu, accept: "Control+a", toggle: show_chaifen}
+    - { when: has_menu, accept: "Control+s", toggle: show_pinyin}
+    - { when: has_menu, accept: "Control+d", toggle: show_jane}
+
+    # 删除
+    - { when: composing, accept: "Control+x", send: "Shift+Delete"}
+
+
+reverse_lookup_filter_ac_hint:
+  dictionary: zrm_desc
+  comment_format:
+    #- xform/(|.+)(§.+级字>)(.+|)/$2/
+    #- xform/(|.+)_(.+|)/ /
+    - xform/(.+)/$1/
+
+#重复上次上屏内容
+repeat_history:
+  input: __
+  size: 10
+  initial_quality: 1000
+
+#Emoji
+emoji_conversion:
+  opencc_config: emoji.json
+  option_name: show_emoji
+  tips: all
+  inherit_comment: true
+
+#其他
+other_conversion:
+  opencc_config: others.json
+  option_name: show_other
+  tips: all
+  inherit_comment: true
+
+#繁体
+fan_conversion:
+  opencc_config: fan.json
+  option_name: show_fan
+  tips: all
+  inherit_comment: true
+
+# 拆分
+chaifen_conversion:
+  opencc_config: chaifen.json
+  option_name: show_chaifen
+  show_in_comment: true  # 是否仅将转换结果显示在备注中
+  tips: char             #  单字加滤镜: char; 全部: all
+
+# 拼音
+pinyin_conversion:
+  opencc_config: pinyin.json
+  option_name: show_pinyin
+  show_in_comment: true  # 是否仅将转换结果显示在备注中
+  tips: char             #  单字加滤镜: char; 全部: all
+
+# 一击
+jane_conversion:
+  opencc_config: jane.json
+  option_name: show_jane
+  show_in_comment: true  # 是否仅将转换结果显示在备注中
+  tips: char             #  单字加滤镜: char; 全部: all
