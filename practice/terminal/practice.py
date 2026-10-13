@@ -482,6 +482,8 @@ def tone_difficulty_item_stream(key_count=None, toneless=False):
         grouped = {}
         for entry in TONE_SYLLABLES:
             code = entry['code'].lower()
+            if code == 'er':
+                continue  # er 保留为“包裹当前候选并上屏”的功能码，不作为无声调音节题。
             grouped.setdefault(code, []).append(entry)
         items = [make_toneless_group_item(entries) for entries in grouped.values()]
         items = [item for item in items if key_count is None or item['difficulty_key_count'] == key_count]
@@ -687,6 +689,8 @@ def choose_tone_difficulty(toneless=False):
         grouped = {}
         for entry in TONE_SYLLABLES:
             code = entry['code'].lower()
+            if code == 'er':
+                continue  # er 保留为“包裹当前候选并上屏”的功能码，不作为无声调音节题。
             grouped.setdefault(code, []).append(entry)
         count_items = [make_toneless_group_item(entries) for entries in grouped.values()]
     else:

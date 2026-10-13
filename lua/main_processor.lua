@@ -871,9 +871,9 @@ local function processor(key_event, env)
                         return commitText(groups[#groups], "（" .. getCand(0, context, segment, true).text .. "）", engine, context, env)
                     end
                 elseif (key_event.keycode == 114) then
-                    -- er
+                    -- er：用中文双引号包裹首选候选并上屏
                     if (check(groups[#groups])) then
-                        return commitText(groups[#groups], "《" .. getCand(0, context, segment, true).text .. "》", engine, context, env)
+                        return commitText(groups[#groups], "“" .. getCand(0, context, segment, true).text .. "”", engine, context, env)
                     end
                 elseif (key_event.keycode == 119) then
                     -- eo
