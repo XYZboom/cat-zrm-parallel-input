@@ -1,0 +1,6392 @@
+[
+  {
+    "char": "呵",
+    "pinyin": "à",
+    "code": "Aa",
+    "tone_group": "四声"
+  },
+  {
+    "char": "呵",
+    "pinyin": "á",
+    "code": "aA",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "阿",
+    "pinyin": "ā",
+    "code": "aa",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "盎",
+    "pinyin": "àng",
+    "code": "Ah",
+    "tone_group": "四声"
+  },
+  {
+    "char": "仰",
+    "pinyin": "áng",
+    "code": "aH",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "肮",
+    "pinyin": "āng",
+    "code": "ah",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "艾",
+    "pinyin": "ài",
+    "code": "Ai",
+    "tone_group": "四声"
+  },
+  {
+    "char": "挨",
+    "pinyin": "ái",
+    "code": "aI",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "哎",
+    "pinyin": "āi",
+    "code": "ai",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "岸",
+    "pinyin": "àn",
+    "code": "An",
+    "tone_group": "四声"
+  },
+  {
+    "char": "俺",
+    "pinyin": "ǎn",
+    "code": "aN",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "厂",
+    "pinyin": "ān",
+    "code": "an",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "拗",
+    "pinyin": "ào",
+    "code": "Ao",
+    "tone_group": "四声"
+  },
+  {
+    "char": "拗",
+    "pinyin": "ǎo",
+    "code": "aO",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "凹",
+    "pinyin": "āo",
+    "code": "ao",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "坝",
+    "pinyin": "bà",
+    "code": "Ba",
+    "tone_group": "四声"
+  },
+  {
+    "char": "把",
+    "pinyin": "bǎ",
+    "code": "bA",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "八",
+    "pinyin": "bā",
+    "code": "ba",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "俵",
+    "pinyin": "biào",
+    "code": "Bc",
+    "tone_group": "四声"
+  },
+  {
+    "char": "表",
+    "pinyin": "biǎo",
+    "code": "bC",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "标",
+    "pinyin": "biāo",
+    "code": "bc",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "夯",
+    "pinyin": "bèn",
+    "code": "Bf",
+    "tone_group": "四声"
+  },
+  {
+    "char": "本",
+    "pinyin": "běn",
+    "code": "bF",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "奔",
+    "pinyin": "bēn",
+    "code": "bf",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "泵",
+    "pinyin": "bèng",
+    "code": "Bg",
+    "tone_group": "四声"
+  },
+  {
+    "char": "绷",
+    "pinyin": "běng",
+    "code": "bG",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "崩",
+    "pinyin": "bēng",
+    "code": "bg",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "蚌",
+    "pinyin": "bàng",
+    "code": "Bh",
+    "tone_group": "四声"
+  },
+  {
+    "char": "绑",
+    "pinyin": "bǎng",
+    "code": "bH",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "邦",
+    "pinyin": "bāng",
+    "code": "bh",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "币",
+    "pinyin": "bì",
+    "code": "Bi",
+    "tone_group": "四声"
+  },
+  {
+    "char": "匕",
+    "pinyin": "bǐ",
+    "code": "bI",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "逼",
+    "pinyin": "bī",
+    "code": "bi",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "办",
+    "pinyin": "bàn",
+    "code": "Bj",
+    "tone_group": "四声"
+  },
+  {
+    "char": "板",
+    "pinyin": "bǎn",
+    "code": "bJ",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "扳",
+    "pinyin": "bān",
+    "code": "bj",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "报",
+    "pinyin": "bào",
+    "code": "Bk",
+    "tone_group": "四声"
+  },
+  {
+    "char": "饱",
+    "pinyin": "bǎo",
+    "code": "bK",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "包",
+    "pinyin": "bāo",
+    "code": "bk",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "败",
+    "pinyin": "bài",
+    "code": "Bl",
+    "tone_group": "四声"
+  },
+  {
+    "char": "白",
+    "pinyin": "bái",
+    "code": "bL",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "掰",
+    "pinyin": "bāi",
+    "code": "bl",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "变",
+    "pinyin": "biàn",
+    "code": "Bm",
+    "tone_group": "四声"
+  },
+  {
+    "char": "贬",
+    "pinyin": "biǎn",
+    "code": "bM",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "边",
+    "pinyin": "biān",
+    "code": "bm",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "鬓",
+    "pinyin": "bìn",
+    "code": "Bn",
+    "tone_group": "四声"
+  },
+  {
+    "char": "份",
+    "pinyin": "bīn",
+    "code": "bn",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "柏",
+    "pinyin": "bò",
+    "code": "Bo",
+    "tone_group": "四声"
+  },
+  {
+    "char": "伯",
+    "pinyin": "bó",
+    "code": "bO",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "卜",
+    "pinyin": "bō",
+    "code": "bo",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "不",
+    "pinyin": "bù",
+    "code": "Bu",
+    "tone_group": "四声"
+  },
+  {
+    "char": "卜",
+    "pinyin": "bǔ",
+    "code": "bU",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "逋",
+    "pinyin": "bū",
+    "code": "bu",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "别",
+    "pinyin": "biè",
+    "code": "Bx",
+    "tone_group": "四声"
+  },
+  {
+    "char": "别",
+    "pinyin": "bié",
+    "code": "bX",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "瘪",
+    "pinyin": "biē",
+    "code": "bx",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "并",
+    "pinyin": "bìng",
+    "code": "By",
+    "tone_group": "四声"
+  },
+  {
+    "char": "丙",
+    "pinyin": "bǐng",
+    "code": "bY",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "冰",
+    "pinyin": "bīng",
+    "code": "by",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "贝",
+    "pinyin": "bèi",
+    "code": "Bz",
+    "tone_group": "四声"
+  },
+  {
+    "char": "北",
+    "pinyin": "běi",
+    "code": "bZ",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "杯",
+    "pinyin": "bēi",
+    "code": "bz",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "拆",
+    "pinyin": "cā",
+    "code": "ca",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "凑",
+    "pinyin": "còu",
+    "code": "Cb",
+    "tone_group": "四声"
+  },
+  {
+    "char": "册",
+    "pinyin": "cè",
+    "code": "Ce",
+    "tone_group": "四声"
+  },
+  {
+    "char": "岑",
+    "pinyin": "cén",
+    "code": "cF",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "参",
+    "pinyin": "cēn",
+    "code": "cf",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "蹭",
+    "pinyin": "cèng",
+    "code": "Cg",
+    "tone_group": "四声"
+  },
+  {
+    "char": "层",
+    "pinyin": "céng",
+    "code": "cG",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "噌",
+    "pinyin": "cēng",
+    "code": "cg",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "藏",
+    "pinyin": "cáng",
+    "code": "cH",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "仓",
+    "pinyin": "cāng",
+    "code": "ch",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "次",
+    "pinyin": "cì",
+    "code": "Ci",
+    "tone_group": "四声"
+  },
+  {
+    "char": "此",
+    "pinyin": "cǐ",
+    "code": "cI",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "刺",
+    "pinyin": "cī",
+    "code": "ci",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "灿",
+    "pinyin": "càn",
+    "code": "Cj",
+    "tone_group": "四声"
+  },
+  {
+    "char": "残",
+    "pinyin": "cán",
+    "code": "cJ",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "参",
+    "pinyin": "cān",
+    "code": "cj",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "𥖨",
+    "pinyin": "cào",
+    "code": "Ck",
+    "tone_group": "四声"
+  },
+  {
+    "char": "草",
+    "pinyin": "cǎo",
+    "code": "cK",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "操",
+    "pinyin": "cāo",
+    "code": "ck",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "采",
+    "pinyin": "cài",
+    "code": "Cl",
+    "tone_group": "四声"
+  },
+  {
+    "char": "才",
+    "pinyin": "cái",
+    "code": "cL",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "猜",
+    "pinyin": "cāi",
+    "code": "cl",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "挫",
+    "pinyin": "cuò",
+    "code": "Co",
+    "tone_group": "四声"
+  },
+  {
+    "char": "嵯",
+    "pinyin": "cuó",
+    "code": "cO",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "搓",
+    "pinyin": "cuō",
+    "code": "co",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "寸",
+    "pinyin": "cùn",
+    "code": "Cp",
+    "tone_group": "四声"
+  },
+  {
+    "char": "存",
+    "pinyin": "cún",
+    "code": "cP",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "村",
+    "pinyin": "cūn",
+    "code": "cp",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "窜",
+    "pinyin": "cuàn",
+    "code": "Cr",
+    "tone_group": "四声"
+  },
+  {
+    "char": "攒",
+    "pinyin": "cuán",
+    "code": "cR",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "汆",
+    "pinyin": "cuān",
+    "code": "cr",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "从",
+    "pinyin": "cóng",
+    "code": "cS",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "匆",
+    "pinyin": "cōng",
+    "code": "cs",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "卒",
+    "pinyin": "cù",
+    "code": "Cu",
+    "tone_group": "四声"
+  },
+  {
+    "char": "徂",
+    "pinyin": "cú",
+    "code": "cU",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "粗",
+    "pinyin": "cū",
+    "code": "cu",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "脆",
+    "pinyin": "cuì",
+    "code": "Cv",
+    "tone_group": "四声"
+  },
+  {
+    "char": "璀",
+    "pinyin": "cuǐ",
+    "code": "cV",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "衰",
+    "pinyin": "cuī",
+    "code": "cv",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "大",
+    "pinyin": "dà",
+    "code": "Da",
+    "tone_group": "四声"
+  },
+  {
+    "char": "打",
+    "pinyin": "dǎ",
+    "code": "dA",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "搭",
+    "pinyin": "dā",
+    "code": "da",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "斗",
+    "pinyin": "dòu",
+    "code": "Db",
+    "tone_group": "四声"
+  },
+  {
+    "char": "斗",
+    "pinyin": "dǒu",
+    "code": "dB",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "都",
+    "pinyin": "dōu",
+    "code": "db",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "吊",
+    "pinyin": "diào",
+    "code": "Dc",
+    "tone_group": "四声"
+  },
+  {
+    "char": "鸟",
+    "pinyin": "diǎo",
+    "code": "dC",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "刁",
+    "pinyin": "diāo",
+    "code": "dc",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "得",
+    "pinyin": "dé",
+    "code": "dE",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "地",
+    "pinyin": "dē",
+    "code": "de",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "扽",
+    "pinyin": "dèn",
+    "code": "Df",
+    "tone_group": "四声"
+  },
+  {
+    "char": "邓",
+    "pinyin": "dèng",
+    "code": "Dg",
+    "tone_group": "四声"
+  },
+  {
+    "char": "等",
+    "pinyin": "děng",
+    "code": "dG",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "灯",
+    "pinyin": "dēng",
+    "code": "dg",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "当",
+    "pinyin": "dàng",
+    "code": "Dh",
+    "tone_group": "四声"
+  },
+  {
+    "char": "挡",
+    "pinyin": "dǎng",
+    "code": "dH",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "当",
+    "pinyin": "dāng",
+    "code": "dh",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "地",
+    "pinyin": "dì",
+    "code": "Di",
+    "tone_group": "四声"
+  },
+  {
+    "char": "抵",
+    "pinyin": "dǐ",
+    "code": "dI",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "低",
+    "pinyin": "dī",
+    "code": "di",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "石",
+    "pinyin": "dàn",
+    "code": "Dj",
+    "tone_group": "四声"
+  },
+  {
+    "char": "担",
+    "pinyin": "dǎn",
+    "code": "dJ",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "丹",
+    "pinyin": "dān",
+    "code": "dj",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "到",
+    "pinyin": "dào",
+    "code": "Dk",
+    "tone_group": "四声"
+  },
+  {
+    "char": "叨",
+    "pinyin": "dáo",
+    "code": "dK",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "刀",
+    "pinyin": "dāo",
+    "code": "dk",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "大",
+    "pinyin": "dài",
+    "code": "Dl",
+    "tone_group": "四声"
+  },
+  {
+    "char": "歹",
+    "pinyin": "dǎi",
+    "code": "dL",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "呆",
+    "pinyin": "dāi",
+    "code": "dl",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "电",
+    "pinyin": "diàn",
+    "code": "Dm",
+    "tone_group": "四声"
+  },
+  {
+    "char": "典",
+    "pinyin": "diǎn",
+    "code": "dM",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "掂",
+    "pinyin": "diān",
+    "code": "dm",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "驮",
+    "pinyin": "duò",
+    "code": "Do",
+    "tone_group": "四声"
+  },
+  {
+    "char": "夺",
+    "pinyin": "duó",
+    "code": "dO",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "多",
+    "pinyin": "duō",
+    "code": "do",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "囤",
+    "pinyin": "dùn",
+    "code": "Dp",
+    "tone_group": "四声"
+  },
+  {
+    "char": "盹",
+    "pinyin": "dǔn",
+    "code": "dP",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "吨",
+    "pinyin": "dūn",
+    "code": "dp",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "丢",
+    "pinyin": "diū",
+    "code": "dq",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "段",
+    "pinyin": "duàn",
+    "code": "Dr",
+    "tone_group": "四声"
+  },
+  {
+    "char": "短",
+    "pinyin": "duǎn",
+    "code": "dR",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "端",
+    "pinyin": "duān",
+    "code": "dr",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "动",
+    "pinyin": "dòng",
+    "code": "Ds",
+    "tone_group": "四声"
+  },
+  {
+    "char": "董",
+    "pinyin": "dǒng",
+    "code": "dS",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "东",
+    "pinyin": "dōng",
+    "code": "ds",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "杜",
+    "pinyin": "dù",
+    "code": "Du",
+    "tone_group": "四声"
+  },
+  {
+    "char": "肚",
+    "pinyin": "dǔ",
+    "code": "dU",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "都",
+    "pinyin": "dū",
+    "code": "du",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "队",
+    "pinyin": "duì",
+    "code": "Dv",
+    "tone_group": "四声"
+  },
+  {
+    "char": "追",
+    "pinyin": "duī",
+    "code": "dv",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "嗲",
+    "pinyin": "diǎ",
+    "code": "dW",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "迭",
+    "pinyin": "dié",
+    "code": "dX",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "爹",
+    "pinyin": "diē",
+    "code": "dx",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "订",
+    "pinyin": "dìng",
+    "code": "Dy",
+    "tone_group": "四声"
+  },
+  {
+    "char": "顶",
+    "pinyin": "dǐng",
+    "code": "dY",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "丁",
+    "pinyin": "dīng",
+    "code": "dy",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "得",
+    "pinyin": "děi",
+    "code": "dZ",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "嘚",
+    "pinyin": "dēi",
+    "code": "dz",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "扼",
+    "pinyin": "è",
+    "code": "Ee",
+    "tone_group": "四声"
+  },
+  {
+    "char": "讹",
+    "pinyin": "é",
+    "code": "eE",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "阿",
+    "pinyin": "ē",
+    "code": "ee",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "嗯",
+    "pinyin": "ēng",
+    "code": "eg",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "欸",
+    "pinyin": "èi",
+    "code": "Ei",
+    "tone_group": "四声"
+  },
+  {
+    "char": "欸",
+    "pinyin": "éi",
+    "code": "eI",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "欸",
+    "pinyin": "ēi",
+    "code": "ei",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "摁",
+    "pinyin": "èn",
+    "code": "En",
+    "tone_group": "四声"
+  },
+  {
+    "char": "恩",
+    "pinyin": "ēn",
+    "code": "en",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "二",
+    "pinyin": "èr",
+    "code": "Er",
+    "tone_group": "四声"
+  },
+  {
+    "char": "儿",
+    "pinyin": "ér",
+    "code": "eR",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "发",
+    "pinyin": "fà",
+    "code": "Fa",
+    "tone_group": "四声"
+  },
+  {
+    "char": "乏",
+    "pinyin": "fá",
+    "code": "fA",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "发",
+    "pinyin": "fā",
+    "code": "fa",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "不",
+    "pinyin": "fǒu",
+    "code": "fB",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "分",
+    "pinyin": "fèn",
+    "code": "Ff",
+    "tone_group": "四声"
+  },
+  {
+    "char": "坟",
+    "pinyin": "fén",
+    "code": "fF",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "分",
+    "pinyin": "fēn",
+    "code": "ff",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "凤",
+    "pinyin": "fèng",
+    "code": "Fg",
+    "tone_group": "四声"
+  },
+  {
+    "char": "风",
+    "pinyin": "fěng",
+    "code": "fG",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "丰",
+    "pinyin": "fēng",
+    "code": "fg",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "放",
+    "pinyin": "fàng",
+    "code": "Fh",
+    "tone_group": "四声"
+  },
+  {
+    "char": "仿",
+    "pinyin": "fǎng",
+    "code": "fH",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "方",
+    "pinyin": "fāng",
+    "code": "fh",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "犯",
+    "pinyin": "fàn",
+    "code": "Fj",
+    "tone_group": "四声"
+  },
+  {
+    "char": "凡",
+    "pinyin": "fán",
+    "code": "fJ",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "帆",
+    "pinyin": "fān",
+    "code": "fj",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "佛",
+    "pinyin": "fó",
+    "code": "fO",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "父",
+    "pinyin": "fù",
+    "code": "Fu",
+    "tone_group": "四声"
+  },
+  {
+    "char": "夫",
+    "pinyin": "fú",
+    "code": "fU",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "夫",
+    "pinyin": "fū",
+    "code": "fu",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "吠",
+    "pinyin": "fèi",
+    "code": "Fz",
+    "tone_group": "四声"
+  },
+  {
+    "char": "肥",
+    "pinyin": "féi",
+    "code": "fZ",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "飞",
+    "pinyin": "fēi",
+    "code": "fz",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "尬",
+    "pinyin": "gà",
+    "code": "Ga",
+    "tone_group": "四声"
+  },
+  {
+    "char": "轧",
+    "pinyin": "gá",
+    "code": "gA",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "夹",
+    "pinyin": "gā",
+    "code": "ga",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "勾",
+    "pinyin": "gòu",
+    "code": "Gb",
+    "tone_group": "四声"
+  },
+  {
+    "char": "苟",
+    "pinyin": "gǒu",
+    "code": "gB",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "勾",
+    "pinyin": "gōu",
+    "code": "gb",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "逛",
+    "pinyin": "guàng",
+    "code": "Gd",
+    "tone_group": "四声"
+  },
+  {
+    "char": "广",
+    "pinyin": "guǎng",
+    "code": "gD",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "光",
+    "pinyin": "guāng",
+    "code": "gd",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "个",
+    "pinyin": "gè",
+    "code": "Ge",
+    "tone_group": "四声"
+  },
+  {
+    "char": "个",
+    "pinyin": "gě",
+    "code": "gE",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "戈",
+    "pinyin": "gē",
+    "code": "ge",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "亘",
+    "pinyin": "gèn",
+    "code": "Gf",
+    "tone_group": "四声"
+  },
+  {
+    "char": "艮",
+    "pinyin": "gěn",
+    "code": "gF",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "根",
+    "pinyin": "gēn",
+    "code": "gf",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "更",
+    "pinyin": "gèng",
+    "code": "Gg",
+    "tone_group": "四声"
+  },
+  {
+    "char": "埂",
+    "pinyin": "gěng",
+    "code": "gG",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "更",
+    "pinyin": "gēng",
+    "code": "gg",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "杠",
+    "pinyin": "gàng",
+    "code": "Gh",
+    "tone_group": "四声"
+  },
+  {
+    "char": "岗",
+    "pinyin": "gǎng",
+    "code": "gH",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "冈",
+    "pinyin": "gāng",
+    "code": "gh",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "干",
+    "pinyin": "gàn",
+    "code": "Gj",
+    "tone_group": "四声"
+  },
+  {
+    "char": "杆",
+    "pinyin": "gǎn",
+    "code": "gJ",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "干",
+    "pinyin": "gān",
+    "code": "gj",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "告",
+    "pinyin": "gào",
+    "code": "Gk",
+    "tone_group": "四声"
+  },
+  {
+    "char": "搞",
+    "pinyin": "gǎo",
+    "code": "gK",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "高",
+    "pinyin": "gāo",
+    "code": "gk",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "丐",
+    "pinyin": "gài",
+    "code": "Gl",
+    "tone_group": "四声"
+  },
+  {
+    "char": "改",
+    "pinyin": "gǎi",
+    "code": "gL",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "该",
+    "pinyin": "gāi",
+    "code": "gl",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "过",
+    "pinyin": "guò",
+    "code": "Go",
+    "tone_group": "四声"
+  },
+  {
+    "char": "果",
+    "pinyin": "guǒ",
+    "code": "gO",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "过",
+    "pinyin": "guō",
+    "code": "go",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "棍",
+    "pinyin": "gùn",
+    "code": "Gp",
+    "tone_group": "四声"
+  },
+  {
+    "char": "滚",
+    "pinyin": "gǔn",
+    "code": "gP",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "观",
+    "pinyin": "guàn",
+    "code": "Gr",
+    "tone_group": "四声"
+  },
+  {
+    "char": "馆",
+    "pinyin": "guǎn",
+    "code": "gR",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "关",
+    "pinyin": "guān",
+    "code": "gr",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "共",
+    "pinyin": "gòng",
+    "code": "Gs",
+    "tone_group": "四声"
+  },
+  {
+    "char": "巩",
+    "pinyin": "gǒng",
+    "code": "gS",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "工",
+    "pinyin": "gōng",
+    "code": "gs",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "估",
+    "pinyin": "gù",
+    "code": "Gu",
+    "tone_group": "四声"
+  },
+  {
+    "char": "古",
+    "pinyin": "gǔ",
+    "code": "gU",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "估",
+    "pinyin": "gū",
+    "code": "gu",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "柜",
+    "pinyin": "guì",
+    "code": "Gv",
+    "tone_group": "四声"
+  },
+  {
+    "char": "轨",
+    "pinyin": "guǐ",
+    "code": "gV",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "归",
+    "pinyin": "guī",
+    "code": "gv",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "卦",
+    "pinyin": "guà",
+    "code": "Gw",
+    "tone_group": "四声"
+  },
+  {
+    "char": "寡",
+    "pinyin": "guǎ",
+    "code": "gW",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "瓜",
+    "pinyin": "guā",
+    "code": "gw",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "怪",
+    "pinyin": "guài",
+    "code": "Gy",
+    "tone_group": "四声"
+  },
+  {
+    "char": "拐",
+    "pinyin": "guǎi",
+    "code": "gY",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "乖",
+    "pinyin": "guāi",
+    "code": "gy",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "给",
+    "pinyin": "gěi",
+    "code": "gZ",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "哈",
+    "pinyin": "hà",
+    "code": "Ha",
+    "tone_group": "四声"
+  },
+  {
+    "char": "虾",
+    "pinyin": "há",
+    "code": "hA",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "哈",
+    "pinyin": "hā",
+    "code": "ha",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "后",
+    "pinyin": "hòu",
+    "code": "Hb",
+    "tone_group": "四声"
+  },
+  {
+    "char": "吼",
+    "pinyin": "hǒu",
+    "code": "hB",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "齁",
+    "pinyin": "hōu",
+    "code": "hb",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "晃",
+    "pinyin": "huàng",
+    "code": "Hd",
+    "tone_group": "四声"
+  },
+  {
+    "char": "皇",
+    "pinyin": "huáng",
+    "code": "hD",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "荒",
+    "pinyin": "huāng",
+    "code": "hd",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "吓",
+    "pinyin": "hè",
+    "code": "He",
+    "tone_group": "四声"
+  },
+  {
+    "char": "禾",
+    "pinyin": "hé",
+    "code": "hE",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "何",
+    "pinyin": "hē",
+    "code": "he",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "恨",
+    "pinyin": "hèn",
+    "code": "Hf",
+    "tone_group": "四声"
+  },
+  {
+    "char": "很",
+    "pinyin": "hěn",
+    "code": "hF",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "横",
+    "pinyin": "hèng",
+    "code": "Hg",
+    "tone_group": "四声"
+  },
+  {
+    "char": "行",
+    "pinyin": "héng",
+    "code": "hG",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "哼",
+    "pinyin": "hēng",
+    "code": "hg",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "行",
+    "pinyin": "hàng",
+    "code": "Hh",
+    "tone_group": "四声"
+  },
+  {
+    "char": "亢",
+    "pinyin": "háng",
+    "code": "hH",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "夯",
+    "pinyin": "hāng",
+    "code": "hh",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "厂",
+    "pinyin": "hàn",
+    "code": "Hj",
+    "tone_group": "四声"
+  },
+  {
+    "char": "汗",
+    "pinyin": "hán",
+    "code": "hJ",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "酣",
+    "pinyin": "hān",
+    "code": "hj",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "号",
+    "pinyin": "hào",
+    "code": "Hk",
+    "tone_group": "四声"
+  },
+  {
+    "char": "号",
+    "pinyin": "háo",
+    "code": "hK",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "蒿",
+    "pinyin": "hāo",
+    "code": "hk",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "亥",
+    "pinyin": "hài",
+    "code": "Hl",
+    "tone_group": "四声"
+  },
+  {
+    "char": "还",
+    "pinyin": "hái",
+    "code": "hL",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "咳",
+    "pinyin": "hāi",
+    "code": "hl",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "或",
+    "pinyin": "huò",
+    "code": "Ho",
+    "tone_group": "四声"
+  },
+  {
+    "char": "火",
+    "pinyin": "huǒ",
+    "code": "hO",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "豁",
+    "pinyin": "huō",
+    "code": "ho",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "混",
+    "pinyin": "hùn",
+    "code": "Hp",
+    "tone_group": "四声"
+  },
+  {
+    "char": "浑",
+    "pinyin": "hún",
+    "code": "hP",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "昏",
+    "pinyin": "hūn",
+    "code": "hp",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "幻",
+    "pinyin": "huàn",
+    "code": "Hr",
+    "tone_group": "四声"
+  },
+  {
+    "char": "还",
+    "pinyin": "huán",
+    "code": "hR",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "欢",
+    "pinyin": "huān",
+    "code": "hr",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "哄",
+    "pinyin": "hòng",
+    "code": "Hs",
+    "tone_group": "四声"
+  },
+  {
+    "char": "弘",
+    "pinyin": "hóng",
+    "code": "hS",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "轰",
+    "pinyin": "hōng",
+    "code": "hs",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "互",
+    "pinyin": "hù",
+    "code": "Hu",
+    "tone_group": "四声"
+  },
+  {
+    "char": "许",
+    "pinyin": "hǔ",
+    "code": "hU",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "乎",
+    "pinyin": "hū",
+    "code": "hu",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "卉",
+    "pinyin": "huì",
+    "code": "Hv",
+    "tone_group": "四声"
+  },
+  {
+    "char": "回",
+    "pinyin": "huí",
+    "code": "hV",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "灰",
+    "pinyin": "huī",
+    "code": "hv",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "化",
+    "pinyin": "huà",
+    "code": "Hw",
+    "tone_group": "四声"
+  },
+  {
+    "char": "划",
+    "pinyin": "huá",
+    "code": "hW",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "化",
+    "pinyin": "huā",
+    "code": "hw",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "坏",
+    "pinyin": "huài",
+    "code": "Hy",
+    "tone_group": "四声"
+  },
+  {
+    "char": "怀",
+    "pinyin": "huái",
+    "code": "hY",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "划",
+    "pinyin": "huāi",
+    "code": "hy",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "黑",
+    "pinyin": "hēi",
+    "code": "hz",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "叉",
+    "pinyin": "chà",
+    "code": "Ia",
+    "tone_group": "四声"
+  },
+  {
+    "char": "叉",
+    "pinyin": "chǎ",
+    "code": "iA",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "叉",
+    "pinyin": "chā",
+    "code": "ia",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "臭",
+    "pinyin": "chòu",
+    "code": "Ib",
+    "tone_group": "四声"
+  },
+  {
+    "char": "仇",
+    "pinyin": "chóu",
+    "code": "iB",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "抽",
+    "pinyin": "chōu",
+    "code": "ib",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "创",
+    "pinyin": "chuàng",
+    "code": "Id",
+    "tone_group": "四声"
+  },
+  {
+    "char": "闯",
+    "pinyin": "chuǎng",
+    "code": "iD",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "创",
+    "pinyin": "chuāng",
+    "code": "id",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "彻",
+    "pinyin": "chè",
+    "code": "Ie",
+    "tone_group": "四声"
+  },
+  {
+    "char": "尺",
+    "pinyin": "chě",
+    "code": "iE",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "车",
+    "pinyin": "chē",
+    "code": "ie",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "衬",
+    "pinyin": "chèn",
+    "code": "If",
+    "tone_group": "四声"
+  },
+  {
+    "char": "臣",
+    "pinyin": "chén",
+    "code": "iF",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "伧",
+    "pinyin": "chēn",
+    "code": "if",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "秤",
+    "pinyin": "chèng",
+    "code": "Ig",
+    "tone_group": "四声"
+  },
+  {
+    "char": "成",
+    "pinyin": "chéng",
+    "code": "iG",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "抢",
+    "pinyin": "chēng",
+    "code": "ig",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "畅",
+    "pinyin": "chàng",
+    "code": "Ih",
+    "tone_group": "四声"
+  },
+  {
+    "char": "厂",
+    "pinyin": "chǎng",
+    "code": "iH",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "昌",
+    "pinyin": "chāng",
+    "code": "ih",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "斥",
+    "pinyin": "chì",
+    "code": "Ii",
+    "tone_group": "四声"
+  },
+  {
+    "char": "尺",
+    "pinyin": "chǐ",
+    "code": "iI",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "吃",
+    "pinyin": "chī",
+    "code": "ii",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "颤",
+    "pinyin": "chàn",
+    "code": "Ij",
+    "tone_group": "四声"
+  },
+  {
+    "char": "产",
+    "pinyin": "chǎn",
+    "code": "iJ",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "掺",
+    "pinyin": "chān",
+    "code": "ij",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "耖",
+    "pinyin": "chào",
+    "code": "Ik",
+    "tone_group": "四声"
+  },
+  {
+    "char": "吵",
+    "pinyin": "chǎo",
+    "code": "iK",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "抄",
+    "pinyin": "chāo",
+    "code": "ik",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "差",
+    "pinyin": "chài",
+    "code": "Il",
+    "tone_group": "四声"
+  },
+  {
+    "char": "柴",
+    "pinyin": "chái",
+    "code": "iL",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "拆",
+    "pinyin": "chāi",
+    "code": "il",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "绰",
+    "pinyin": "chuò",
+    "code": "Io",
+    "tone_group": "四声"
+  },
+  {
+    "char": "戳",
+    "pinyin": "chuō",
+    "code": "io",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "纯",
+    "pinyin": "chún",
+    "code": "iP",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "春",
+    "pinyin": "chūn",
+    "code": "ip",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "串",
+    "pinyin": "chuàn",
+    "code": "Ir",
+    "tone_group": "四声"
+  },
+  {
+    "char": "传",
+    "pinyin": "chuán",
+    "code": "iR",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "川",
+    "pinyin": "chuān",
+    "code": "ir",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "冲",
+    "pinyin": "chòng",
+    "code": "Is",
+    "tone_group": "四声"
+  },
+  {
+    "char": "虫",
+    "pinyin": "chóng",
+    "code": "iS",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "冲",
+    "pinyin": "chōng",
+    "code": "is",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "处",
+    "pinyin": "chù",
+    "code": "Iu",
+    "tone_group": "四声"
+  },
+  {
+    "char": "处",
+    "pinyin": "chǔ",
+    "code": "iU",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "出",
+    "pinyin": "chū",
+    "code": "iu",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "惙",
+    "pinyin": "chuì",
+    "code": "Iv",
+    "tone_group": "四声"
+  },
+  {
+    "char": "垂",
+    "pinyin": "chuí",
+    "code": "iV",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "吹",
+    "pinyin": "chuī",
+    "code": "iv",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "欻",
+    "pinyin": "chuā",
+    "code": "iw",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "揣",
+    "pinyin": "chuài",
+    "code": "Iy",
+    "tone_group": "四声"
+  },
+  {
+    "char": "揣",
+    "pinyin": "chuǎi",
+    "code": "iY",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "揣",
+    "pinyin": "chuāi",
+    "code": "iy",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "叫",
+    "pinyin": "jiào",
+    "code": "Jc",
+    "tone_group": "四声"
+  },
+  {
+    "char": "角",
+    "pinyin": "jiǎo",
+    "code": "jC",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "交",
+    "pinyin": "jiāo",
+    "code": "jc",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "匠",
+    "pinyin": "jiàng",
+    "code": "Jd",
+    "tone_group": "四声"
+  },
+  {
+    "char": "讲",
+    "pinyin": "jiǎng",
+    "code": "jD",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "江",
+    "pinyin": "jiāng",
+    "code": "jd",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "计",
+    "pinyin": "jì",
+    "code": "Ji",
+    "tone_group": "四声"
+  },
+  {
+    "char": "几",
+    "pinyin": "jǐ",
+    "code": "jI",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "几",
+    "pinyin": "jī",
+    "code": "ji",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "见",
+    "pinyin": "jiàn",
+    "code": "Jm",
+    "tone_group": "四声"
+  },
+  {
+    "char": "拣",
+    "pinyin": "jiǎn",
+    "code": "jM",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "尖",
+    "pinyin": "jiān",
+    "code": "jm",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "仅",
+    "pinyin": "jìn",
+    "code": "Jn",
+    "tone_group": "四声"
+  },
+  {
+    "char": "仅",
+    "pinyin": "jǐn",
+    "code": "jN",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "巾",
+    "pinyin": "jīn",
+    "code": "jn",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "俊",
+    "pinyin": "jùn",
+    "code": "Jp",
+    "tone_group": "四声"
+  },
+  {
+    "char": "军",
+    "pinyin": "jūn",
+    "code": "jp",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "旧",
+    "pinyin": "jiù",
+    "code": "Jq",
+    "tone_group": "四声"
+  },
+  {
+    "char": "九",
+    "pinyin": "jiǔ",
+    "code": "jQ",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "纠",
+    "pinyin": "jiū",
+    "code": "jq",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "卷",
+    "pinyin": "juàn",
+    "code": "Jr",
+    "tone_group": "四声"
+  },
+  {
+    "char": "卷",
+    "pinyin": "juǎn",
+    "code": "jR",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "捐",
+    "pinyin": "juān",
+    "code": "jr",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "窘",
+    "pinyin": "jiǒng",
+    "code": "jS",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "扃",
+    "pinyin": "jiōng",
+    "code": "js",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "倔",
+    "pinyin": "juè",
+    "code": "Jt",
+    "tone_group": "四声"
+  },
+  {
+    "char": "决",
+    "pinyin": "jué",
+    "code": "jT",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "撅",
+    "pinyin": "juē",
+    "code": "jt",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "巨",
+    "pinyin": "jù",
+    "code": "Ju",
+    "tone_group": "四声"
+  },
+  {
+    "char": "局",
+    "pinyin": "jú",
+    "code": "jU",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "车",
+    "pinyin": "jū",
+    "code": "ju",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "价",
+    "pinyin": "jià",
+    "code": "Jw",
+    "tone_group": "四声"
+  },
+  {
+    "char": "甲",
+    "pinyin": "jiǎ",
+    "code": "jW",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "加",
+    "pinyin": "jiā",
+    "code": "jw",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "介",
+    "pinyin": "jiè",
+    "code": "Jx",
+    "tone_group": "四声"
+  },
+  {
+    "char": "节",
+    "pinyin": "jié",
+    "code": "jX",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "节",
+    "pinyin": "jiē",
+    "code": "jx",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "劲",
+    "pinyin": "jìng",
+    "code": "Jy",
+    "tone_group": "四声"
+  },
+  {
+    "char": "井",
+    "pinyin": "jǐng",
+    "code": "jY",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "茎",
+    "pinyin": "jīng",
+    "code": "jy",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "卡",
+    "pinyin": "kǎ",
+    "code": "kA",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "咖",
+    "pinyin": "kā",
+    "code": "ka",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "叩",
+    "pinyin": "kòu",
+    "code": "Kb",
+    "tone_group": "四声"
+  },
+  {
+    "char": "口",
+    "pinyin": "kǒu",
+    "code": "kB",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "抠",
+    "pinyin": "kōu",
+    "code": "kb",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "旷",
+    "pinyin": "kuàng",
+    "code": "Kd",
+    "tone_group": "四声"
+  },
+  {
+    "char": "狂",
+    "pinyin": "kuáng",
+    "code": "kD",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "筐",
+    "pinyin": "kuāng",
+    "code": "kd",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "可",
+    "pinyin": "kè",
+    "code": "Ke",
+    "tone_group": "四声"
+  },
+  {
+    "char": "可",
+    "pinyin": "kě",
+    "code": "kE",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "坷",
+    "pinyin": "kē",
+    "code": "ke",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "裉",
+    "pinyin": "kèn",
+    "code": "Kf",
+    "tone_group": "四声"
+  },
+  {
+    "char": "肯",
+    "pinyin": "kěn",
+    "code": "kF",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "坑",
+    "pinyin": "kēng",
+    "code": "kg",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "亢",
+    "pinyin": "kàng",
+    "code": "Kh",
+    "tone_group": "四声"
+  },
+  {
+    "char": "扛",
+    "pinyin": "káng",
+    "code": "kH",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "康",
+    "pinyin": "kāng",
+    "code": "kh",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "看",
+    "pinyin": "kàn",
+    "code": "Kj",
+    "tone_group": "四声"
+  },
+  {
+    "char": "坎",
+    "pinyin": "kǎn",
+    "code": "kJ",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "刊",
+    "pinyin": "kān",
+    "code": "kj",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "铐",
+    "pinyin": "kào",
+    "code": "Kk",
+    "tone_group": "四声"
+  },
+  {
+    "char": "考",
+    "pinyin": "kǎo",
+    "code": "kK",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "尻",
+    "pinyin": "kāo",
+    "code": "kk",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "忾",
+    "pinyin": "kài",
+    "code": "Kl",
+    "tone_group": "四声"
+  },
+  {
+    "char": "岂",
+    "pinyin": "kǎi",
+    "code": "kL",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "开",
+    "pinyin": "kāi",
+    "code": "kl",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "扩",
+    "pinyin": "kuò",
+    "code": "Ko",
+    "tone_group": "四声"
+  },
+  {
+    "char": "困",
+    "pinyin": "kùn",
+    "code": "Kp",
+    "tone_group": "四声"
+  },
+  {
+    "char": "捆",
+    "pinyin": "kǔn",
+    "code": "kP",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "坤",
+    "pinyin": "kūn",
+    "code": "kp",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "款",
+    "pinyin": "kuǎn",
+    "code": "kR",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "宽",
+    "pinyin": "kuān",
+    "code": "kr",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "空",
+    "pinyin": "kòng",
+    "code": "Ks",
+    "tone_group": "四声"
+  },
+  {
+    "char": "孔",
+    "pinyin": "kǒng",
+    "code": "kS",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "空",
+    "pinyin": "kōng",
+    "code": "ks",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "库",
+    "pinyin": "kù",
+    "code": "Ku",
+    "tone_group": "四声"
+  },
+  {
+    "char": "苦",
+    "pinyin": "kǔ",
+    "code": "kU",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "挎",
+    "pinyin": "kū",
+    "code": "ku",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "馈",
+    "pinyin": "kuì",
+    "code": "Kv",
+    "tone_group": "四声"
+  },
+  {
+    "char": "葵",
+    "pinyin": "kuí",
+    "code": "kV",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "亏",
+    "pinyin": "kuī",
+    "code": "kv",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "夸",
+    "pinyin": "kuà",
+    "code": "Kw",
+    "tone_group": "四声"
+  },
+  {
+    "char": "垮",
+    "pinyin": "kuǎ",
+    "code": "kW",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "夸",
+    "pinyin": "kuā",
+    "code": "kw",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "会",
+    "pinyin": "kuài",
+    "code": "Ky",
+    "tone_group": "四声"
+  },
+  {
+    "char": "㧟",
+    "pinyin": "kuǎi",
+    "code": "kY",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "剋",
+    "pinyin": "kēi",
+    "code": "kz",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "拉",
+    "pinyin": "là",
+    "code": "La",
+    "tone_group": "四声"
+  },
+  {
+    "char": "拉",
+    "pinyin": "lá",
+    "code": "lA",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "垃",
+    "pinyin": "lā",
+    "code": "la",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "陋",
+    "pinyin": "lòu",
+    "code": "Lb",
+    "tone_group": "四声"
+  },
+  {
+    "char": "娄",
+    "pinyin": "lóu",
+    "code": "lB",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "搂",
+    "pinyin": "lōu",
+    "code": "lb",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "料",
+    "pinyin": "liào",
+    "code": "Lc",
+    "tone_group": "四声"
+  },
+  {
+    "char": "了",
+    "pinyin": "liǎo",
+    "code": "lC",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "撩",
+    "pinyin": "liāo",
+    "code": "lc",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "亮",
+    "pinyin": "liàng",
+    "code": "Ld",
+    "tone_group": "四声"
+  },
+  {
+    "char": "两",
+    "pinyin": "liǎng",
+    "code": "lD",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "乐",
+    "pinyin": "lè",
+    "code": "Le",
+    "tone_group": "四声"
+  },
+  {
+    "char": "了",
+    "pinyin": "lē",
+    "code": "le",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "愣",
+    "pinyin": "lèng",
+    "code": "Lg",
+    "tone_group": "四声"
+  },
+  {
+    "char": "冷",
+    "pinyin": "lěng",
+    "code": "lG",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "棱",
+    "pinyin": "lēng",
+    "code": "lg",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "郎",
+    "pinyin": "làng",
+    "code": "Lh",
+    "tone_group": "四声"
+  },
+  {
+    "char": "郎",
+    "pinyin": "láng",
+    "code": "lH",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "啷",
+    "pinyin": "lāng",
+    "code": "lh",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "力",
+    "pinyin": "lì",
+    "code": "Li",
+    "tone_group": "四声"
+  },
+  {
+    "char": "礼",
+    "pinyin": "lǐ",
+    "code": "lI",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "里",
+    "pinyin": "lī",
+    "code": "li",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "烂",
+    "pinyin": "làn",
+    "code": "Lj",
+    "tone_group": "四声"
+  },
+  {
+    "char": "兰",
+    "pinyin": "lán",
+    "code": "lJ",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "乐",
+    "pinyin": "lào",
+    "code": "Lk",
+    "tone_group": "四声"
+  },
+  {
+    "char": "老",
+    "pinyin": "lǎo",
+    "code": "lK",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "捞",
+    "pinyin": "lāo",
+    "code": "lk",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "睐",
+    "pinyin": "lài",
+    "code": "Ll",
+    "tone_group": "四声"
+  },
+  {
+    "char": "来",
+    "pinyin": "lái",
+    "code": "lL",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "练",
+    "pinyin": "liàn",
+    "code": "Lm",
+    "tone_group": "四声"
+  },
+  {
+    "char": "连",
+    "pinyin": "lián",
+    "code": "lM",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "吝",
+    "pinyin": "lìn",
+    "code": "Ln",
+    "tone_group": "四声"
+  },
+  {
+    "char": "邻",
+    "pinyin": "lín",
+    "code": "lN",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "拎",
+    "pinyin": "līn",
+    "code": "ln",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "洛",
+    "pinyin": "luò",
+    "code": "Lo",
+    "tone_group": "四声"
+  },
+  {
+    "char": "罗",
+    "pinyin": "luó",
+    "code": "lO",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "啰",
+    "pinyin": "luō",
+    "code": "lo",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "论",
+    "pinyin": "lùn",
+    "code": "Lp",
+    "tone_group": "四声"
+  },
+  {
+    "char": "仑",
+    "pinyin": "lún",
+    "code": "lP",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "抡",
+    "pinyin": "lūn",
+    "code": "lp",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "六",
+    "pinyin": "liù",
+    "code": "Lq",
+    "tone_group": "四声"
+  },
+  {
+    "char": "刘",
+    "pinyin": "liú",
+    "code": "lQ",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "溜",
+    "pinyin": "liū",
+    "code": "lq",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "乱",
+    "pinyin": "luàn",
+    "code": "Lr",
+    "tone_group": "四声"
+  },
+  {
+    "char": "卵",
+    "pinyin": "luǎn",
+    "code": "lR",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "弄",
+    "pinyin": "lòng",
+    "code": "Ls",
+    "tone_group": "四声"
+  },
+  {
+    "char": "龙",
+    "pinyin": "lóng",
+    "code": "lS",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "隆",
+    "pinyin": "lōng",
+    "code": "ls",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "掠",
+    "pinyin": "lüè",
+    "code": "Lt",
+    "tone_group": "四声"
+  },
+  {
+    "char": "六",
+    "pinyin": "lù",
+    "code": "Lu",
+    "tone_group": "四声"
+  },
+  {
+    "char": "卢",
+    "pinyin": "lú",
+    "code": "lU",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "撸",
+    "pinyin": "lū",
+    "code": "lu",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "律",
+    "pinyin": "lǜ",
+    "code": "Lv",
+    "tone_group": "四声"
+  },
+  {
+    "char": "吕",
+    "pinyin": "lǚ",
+    "code": "lV",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "俩",
+    "pinyin": "liǎ",
+    "code": "lW",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "列",
+    "pinyin": "liè",
+    "code": "Lx",
+    "tone_group": "四声"
+  },
+  {
+    "char": "咧",
+    "pinyin": "liě",
+    "code": "lX",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "咧",
+    "pinyin": "liē",
+    "code": "lx",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "另",
+    "pinyin": "lìng",
+    "code": "Ly",
+    "tone_group": "四声"
+  },
+  {
+    "char": "令",
+    "pinyin": "líng",
+    "code": "lY",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "肋",
+    "pinyin": "lèi",
+    "code": "Lz",
+    "tone_group": "四声"
+  },
+  {
+    "char": "垒",
+    "pinyin": "lěi",
+    "code": "lZ",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "勒",
+    "pinyin": "lēi",
+    "code": "lz",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "蚂",
+    "pinyin": "mà",
+    "code": "Ma",
+    "tone_group": "四声"
+  },
+  {
+    "char": "马",
+    "pinyin": "mǎ",
+    "code": "mA",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "么",
+    "pinyin": "mā",
+    "code": "ma",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "某",
+    "pinyin": "mǒu",
+    "code": "mB",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "哞",
+    "pinyin": "mōu",
+    "code": "mb",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "妙",
+    "pinyin": "miào",
+    "code": "Mc",
+    "tone_group": "四声"
+  },
+  {
+    "char": "苗",
+    "pinyin": "miáo",
+    "code": "mC",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "喵",
+    "pinyin": "miāo",
+    "code": "mc",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "么",
+    "pinyin": "mē",
+    "code": "me",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "闷",
+    "pinyin": "mèn",
+    "code": "Mf",
+    "tone_group": "四声"
+  },
+  {
+    "char": "门",
+    "pinyin": "mén",
+    "code": "mF",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "们",
+    "pinyin": "mēn",
+    "code": "mf",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "孟",
+    "pinyin": "mèng",
+    "code": "Mg",
+    "tone_group": "四声"
+  },
+  {
+    "char": "氓",
+    "pinyin": "méng",
+    "code": "mG",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "蒙",
+    "pinyin": "mēng",
+    "code": "mg",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "芒",
+    "pinyin": "máng",
+    "code": "mH",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "牤",
+    "pinyin": "māng",
+    "code": "mh",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "觅",
+    "pinyin": "mì",
+    "code": "Mi",
+    "tone_group": "四声"
+  },
+  {
+    "char": "米",
+    "pinyin": "mǐ",
+    "code": "mI",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "咪",
+    "pinyin": "mī",
+    "code": "mi",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "曼",
+    "pinyin": "màn",
+    "code": "Mj",
+    "tone_group": "四声"
+  },
+  {
+    "char": "埋",
+    "pinyin": "mán",
+    "code": "mJ",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "嫚",
+    "pinyin": "mān",
+    "code": "mj",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "茂",
+    "pinyin": "mào",
+    "code": "Mk",
+    "tone_group": "四声"
+  },
+  {
+    "char": "毛",
+    "pinyin": "máo",
+    "code": "mK",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "猫",
+    "pinyin": "māo",
+    "code": "mk",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "迈",
+    "pinyin": "mài",
+    "code": "Ml",
+    "tone_group": "四声"
+  },
+  {
+    "char": "买",
+    "pinyin": "mǎi",
+    "code": "mL",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "面",
+    "pinyin": "miàn",
+    "code": "Mm",
+    "tone_group": "四声"
+  },
+  {
+    "char": "免",
+    "pinyin": "miǎn",
+    "code": "mM",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "皿",
+    "pinyin": "mǐn",
+    "code": "mN",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "万",
+    "pinyin": "mò",
+    "code": "Mo",
+    "tone_group": "四声"
+  },
+  {
+    "char": "么",
+    "pinyin": "mó",
+    "code": "mO",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "摸",
+    "pinyin": "mō",
+    "code": "mo",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "谬",
+    "pinyin": "miù",
+    "code": "Mq",
+    "tone_group": "四声"
+  },
+  {
+    "char": "木",
+    "pinyin": "mù",
+    "code": "Mu",
+    "tone_group": "四声"
+  },
+  {
+    "char": "母",
+    "pinyin": "mǔ",
+    "code": "mU",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "灭",
+    "pinyin": "miè",
+    "code": "Mx",
+    "tone_group": "四声"
+  },
+  {
+    "char": "乜",
+    "pinyin": "miē",
+    "code": "mx",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "命",
+    "pinyin": "mìng",
+    "code": "My",
+    "tone_group": "四声"
+  },
+  {
+    "char": "名",
+    "pinyin": "míng",
+    "code": "mY",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "妹",
+    "pinyin": "mèi",
+    "code": "Mz",
+    "tone_group": "四声"
+  },
+  {
+    "char": "每",
+    "pinyin": "měi",
+    "code": "mZ",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "内",
+    "pinyin": "nà",
+    "code": "Na",
+    "tone_group": "四声"
+  },
+  {
+    "char": "哪",
+    "pinyin": "nǎ",
+    "code": "nA",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "那",
+    "pinyin": "nā",
+    "code": "na",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "耨",
+    "pinyin": "nòu",
+    "code": "Nb",
+    "tone_group": "四声"
+  },
+  {
+    "char": "尿",
+    "pinyin": "niào",
+    "code": "Nc",
+    "tone_group": "四声"
+  },
+  {
+    "char": "鸟",
+    "pinyin": "niǎo",
+    "code": "nC",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "酿",
+    "pinyin": "niàng",
+    "code": "Nd",
+    "tone_group": "四声"
+  },
+  {
+    "char": "娘",
+    "pinyin": "niáng",
+    "code": "nD",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "讷",
+    "pinyin": "nè",
+    "code": "Ne",
+    "tone_group": "四声"
+  },
+  {
+    "char": "哪",
+    "pinyin": "né",
+    "code": "nE",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "呢",
+    "pinyin": "nē",
+    "code": "ne",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "嫩",
+    "pinyin": "nèn",
+    "code": "Nf",
+    "tone_group": "四声"
+  },
+  {
+    "char": "能",
+    "pinyin": "néng",
+    "code": "nG",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "齉",
+    "pinyin": "nàng",
+    "code": "Nh",
+    "tone_group": "四声"
+  },
+  {
+    "char": "囊",
+    "pinyin": "náng",
+    "code": "nH",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "囊",
+    "pinyin": "nāng",
+    "code": "nh",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "泥",
+    "pinyin": "nì",
+    "code": "Ni",
+    "tone_group": "四声"
+  },
+  {
+    "char": "尼",
+    "pinyin": "ní",
+    "code": "nI",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "妮",
+    "pinyin": "nī",
+    "code": "ni",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "难",
+    "pinyin": "nàn",
+    "code": "Nj",
+    "tone_group": "四声"
+  },
+  {
+    "char": "男",
+    "pinyin": "nán",
+    "code": "nJ",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "囡",
+    "pinyin": "nān",
+    "code": "nj",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "闹",
+    "pinyin": "nào",
+    "code": "Nk",
+    "tone_group": "四声"
+  },
+  {
+    "char": "挠",
+    "pinyin": "náo",
+    "code": "nK",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "孬",
+    "pinyin": "nāo",
+    "code": "nk",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "奈",
+    "pinyin": "nài",
+    "code": "Nl",
+    "tone_group": "四声"
+  },
+  {
+    "char": "乃",
+    "pinyin": "nǎi",
+    "code": "nL",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "念",
+    "pinyin": "niàn",
+    "code": "Nm",
+    "tone_group": "四声"
+  },
+  {
+    "char": "年",
+    "pinyin": "nián",
+    "code": "nM",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "拈",
+    "pinyin": "niān",
+    "code": "nm",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "您",
+    "pinyin": "nín",
+    "code": "nN",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "诺",
+    "pinyin": "nuò",
+    "code": "No",
+    "tone_group": "四声"
+  },
+  {
+    "char": "挪",
+    "pinyin": "nuó",
+    "code": "nO",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "拗",
+    "pinyin": "niù",
+    "code": "Nq",
+    "tone_group": "四声"
+  },
+  {
+    "char": "牛",
+    "pinyin": "niú",
+    "code": "nQ",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "妞",
+    "pinyin": "niū",
+    "code": "nq",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "暖",
+    "pinyin": "nuǎn",
+    "code": "nR",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "弄",
+    "pinyin": "nòng",
+    "code": "Ns",
+    "tone_group": "四声"
+  },
+  {
+    "char": "农",
+    "pinyin": "nóng",
+    "code": "nS",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "疟",
+    "pinyin": "nüè",
+    "code": "Nt",
+    "tone_group": "四声"
+  },
+  {
+    "char": "怒",
+    "pinyin": "nù",
+    "code": "Nu",
+    "tone_group": "四声"
+  },
+  {
+    "char": "奴",
+    "pinyin": "nú",
+    "code": "nU",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "衄",
+    "pinyin": "nǜ",
+    "code": "Nv",
+    "tone_group": "四声"
+  },
+  {
+    "char": "女",
+    "pinyin": "nǚ",
+    "code": "nV",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "聂",
+    "pinyin": "niè",
+    "code": "Nx",
+    "tone_group": "四声"
+  },
+  {
+    "char": "捏",
+    "pinyin": "niē",
+    "code": "nx",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "宁",
+    "pinyin": "nìng",
+    "code": "Ny",
+    "tone_group": "四声"
+  },
+  {
+    "char": "宁",
+    "pinyin": "níng",
+    "code": "nY",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "内",
+    "pinyin": "nèi",
+    "code": "Nz",
+    "tone_group": "四声"
+  },
+  {
+    "char": "哪",
+    "pinyin": "něi",
+    "code": "nZ",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "哦",
+    "pinyin": "ò",
+    "code": "Oo",
+    "tone_group": "四声"
+  },
+  {
+    "char": "哦",
+    "pinyin": "ó",
+    "code": "oO",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "喔",
+    "pinyin": "ō",
+    "code": "oo",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "呕",
+    "pinyin": "òu",
+    "code": "Ou",
+    "tone_group": "四声"
+  },
+  {
+    "char": "呕",
+    "pinyin": "ǒu",
+    "code": "oU",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "区",
+    "pinyin": "ōu",
+    "code": "ou",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "帕",
+    "pinyin": "pà",
+    "code": "Pa",
+    "tone_group": "四声"
+  },
+  {
+    "char": "扒",
+    "pinyin": "pá",
+    "code": "pA",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "趴",
+    "pinyin": "pā",
+    "code": "pa",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "抔",
+    "pinyin": "póu",
+    "code": "pB",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "剖",
+    "pinyin": "pōu",
+    "code": "pb",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "票",
+    "pinyin": "piào",
+    "code": "Pc",
+    "tone_group": "四声"
+  },
+  {
+    "char": "朴",
+    "pinyin": "piáo",
+    "code": "pC",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "票",
+    "pinyin": "piāo",
+    "code": "pc",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "喷",
+    "pinyin": "pèn",
+    "code": "Pf",
+    "tone_group": "四声"
+  },
+  {
+    "char": "盆",
+    "pinyin": "pén",
+    "code": "pF",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "喷",
+    "pinyin": "pēn",
+    "code": "pf",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "碰",
+    "pinyin": "pèng",
+    "code": "Pg",
+    "tone_group": "四声"
+  },
+  {
+    "char": "朋",
+    "pinyin": "péng",
+    "code": "pG",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "苹",
+    "pinyin": "pēng",
+    "code": "pg",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "胖",
+    "pinyin": "pàng",
+    "code": "Ph",
+    "tone_group": "四声"
+  },
+  {
+    "char": "庞",
+    "pinyin": "páng",
+    "code": "pH",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "乓",
+    "pinyin": "pāng",
+    "code": "ph",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "屁",
+    "pinyin": "pì",
+    "code": "Pi",
+    "tone_group": "四声"
+  },
+  {
+    "char": "匹",
+    "pinyin": "pǐ",
+    "code": "pI",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "坏",
+    "pinyin": "pī",
+    "code": "pi",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "判",
+    "pinyin": "pàn",
+    "code": "Pj",
+    "tone_group": "四声"
+  },
+  {
+    "char": "胖",
+    "pinyin": "pán",
+    "code": "pJ",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "扳",
+    "pinyin": "pān",
+    "code": "pj",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "泡",
+    "pinyin": "pào",
+    "code": "Pk",
+    "tone_group": "四声"
+  },
+  {
+    "char": "刨",
+    "pinyin": "páo",
+    "code": "pK",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "抛",
+    "pinyin": "pāo",
+    "code": "pk",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "派",
+    "pinyin": "pài",
+    "code": "Pl",
+    "tone_group": "四声"
+  },
+  {
+    "char": "迫",
+    "pinyin": "pǎi",
+    "code": "pL",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "拍",
+    "pinyin": "pāi",
+    "code": "pl",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "片",
+    "pinyin": "piàn",
+    "code": "Pm",
+    "tone_group": "四声"
+  },
+  {
+    "char": "便",
+    "pinyin": "pián",
+    "code": "pM",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "片",
+    "pinyin": "piān",
+    "code": "pm",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "聘",
+    "pinyin": "pìn",
+    "code": "Pn",
+    "tone_group": "四声"
+  },
+  {
+    "char": "贫",
+    "pinyin": "pín",
+    "code": "pN",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "拼",
+    "pinyin": "pīn",
+    "code": "pn",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "朴",
+    "pinyin": "pò",
+    "code": "Po",
+    "tone_group": "四声"
+  },
+  {
+    "char": "婆",
+    "pinyin": "pó",
+    "code": "pO",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "朴",
+    "pinyin": "pō",
+    "code": "po",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "铺",
+    "pinyin": "pù",
+    "code": "Pu",
+    "tone_group": "四声"
+  },
+  {
+    "char": "卜",
+    "pinyin": "pú",
+    "code": "pU",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "仆",
+    "pinyin": "pū",
+    "code": "pu",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "撇",
+    "pinyin": "piě",
+    "code": "pX",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "撇",
+    "pinyin": "piē",
+    "code": "px",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "平",
+    "pinyin": "píng",
+    "code": "pY",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "乒",
+    "pinyin": "pīng",
+    "code": "py",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "妃",
+    "pinyin": "pèi",
+    "code": "Pz",
+    "tone_group": "四声"
+  },
+  {
+    "char": "坏",
+    "pinyin": "péi",
+    "code": "pZ",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "坏",
+    "pinyin": "pēi",
+    "code": "pz",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "壳",
+    "pinyin": "qiào",
+    "code": "Qc",
+    "tone_group": "四声"
+  },
+  {
+    "char": "巧",
+    "pinyin": "qiǎo",
+    "code": "qC",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "悄",
+    "pinyin": "qiāo",
+    "code": "qc",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "呛",
+    "pinyin": "qiàng",
+    "code": "Qd",
+    "tone_group": "四声"
+  },
+  {
+    "char": "抢",
+    "pinyin": "qiǎng",
+    "code": "qD",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "抢",
+    "pinyin": "qiāng",
+    "code": "qd",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "气",
+    "pinyin": "qì",
+    "code": "Qi",
+    "tone_group": "四声"
+  },
+  {
+    "char": "乞",
+    "pinyin": "qǐ",
+    "code": "qI",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "七",
+    "pinyin": "qī",
+    "code": "qi",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "欠",
+    "pinyin": "qiàn",
+    "code": "Qm",
+    "tone_group": "四声"
+  },
+  {
+    "char": "浅",
+    "pinyin": "qiǎn",
+    "code": "qM",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "千",
+    "pinyin": "qiān",
+    "code": "qm",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "沁",
+    "pinyin": "qìn",
+    "code": "Qn",
+    "tone_group": "四声"
+  },
+  {
+    "char": "芹",
+    "pinyin": "qín",
+    "code": "qN",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "钦",
+    "pinyin": "qīn",
+    "code": "qn",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "裙",
+    "pinyin": "qún",
+    "code": "qP",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "逡",
+    "pinyin": "qūn",
+    "code": "qp",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "仇",
+    "pinyin": "qiú",
+    "code": "qQ",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "丘",
+    "pinyin": "qiū",
+    "code": "qq",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "劝",
+    "pinyin": "quàn",
+    "code": "Qr",
+    "tone_group": "四声"
+  },
+  {
+    "char": "犬",
+    "pinyin": "quǎn",
+    "code": "qR",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "圈",
+    "pinyin": "quān",
+    "code": "qr",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "穷",
+    "pinyin": "qióng",
+    "code": "qS",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "却",
+    "pinyin": "què",
+    "code": "Qt",
+    "tone_group": "四声"
+  },
+  {
+    "char": "瘸",
+    "pinyin": "qué",
+    "code": "qT",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "缺",
+    "pinyin": "quē",
+    "code": "qt",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "去",
+    "pinyin": "qù",
+    "code": "Qu",
+    "tone_group": "四声"
+  },
+  {
+    "char": "曲",
+    "pinyin": "qǔ",
+    "code": "qU",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "区",
+    "pinyin": "qū",
+    "code": "qu",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "洽",
+    "pinyin": "qià",
+    "code": "Qw",
+    "tone_group": "四声"
+  },
+  {
+    "char": "卡",
+    "pinyin": "qiǎ",
+    "code": "qW",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "掐",
+    "pinyin": "qiā",
+    "code": "qw",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "切",
+    "pinyin": "qiè",
+    "code": "Qx",
+    "tone_group": "四声"
+  },
+  {
+    "char": "且",
+    "pinyin": "qiě",
+    "code": "qX",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "切",
+    "pinyin": "qiē",
+    "code": "qx",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "庆",
+    "pinyin": "qìng",
+    "code": "Qy",
+    "tone_group": "四声"
+  },
+  {
+    "char": "顷",
+    "pinyin": "qǐng",
+    "code": "qY",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "青",
+    "pinyin": "qīng",
+    "code": "qy",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "肉",
+    "pinyin": "ròu",
+    "code": "Rb",
+    "tone_group": "四声"
+  },
+  {
+    "char": "柔",
+    "pinyin": "róu",
+    "code": "rB",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "热",
+    "pinyin": "rè",
+    "code": "Re",
+    "tone_group": "四声"
+  },
+  {
+    "char": "若",
+    "pinyin": "rě",
+    "code": "rE",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "刃",
+    "pinyin": "rèn",
+    "code": "Rf",
+    "tone_group": "四声"
+  },
+  {
+    "char": "人",
+    "pinyin": "rén",
+    "code": "rF",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "仍",
+    "pinyin": "réng",
+    "code": "rG",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "扔",
+    "pinyin": "rēng",
+    "code": "rg",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "让",
+    "pinyin": "ràng",
+    "code": "Rh",
+    "tone_group": "四声"
+  },
+  {
+    "char": "壤",
+    "pinyin": "rǎng",
+    "code": "rH",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "嚷",
+    "pinyin": "rāng",
+    "code": "rh",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "日",
+    "pinyin": "rì",
+    "code": "Ri",
+    "tone_group": "四声"
+  },
+  {
+    "char": "冉",
+    "pinyin": "rǎn",
+    "code": "rJ",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "绕",
+    "pinyin": "rào",
+    "code": "Rk",
+    "tone_group": "四声"
+  },
+  {
+    "char": "扰",
+    "pinyin": "rǎo",
+    "code": "rK",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "若",
+    "pinyin": "ruò",
+    "code": "Ro",
+    "tone_group": "四声"
+  },
+  {
+    "char": "闰",
+    "pinyin": "rùn",
+    "code": "Rp",
+    "tone_group": "四声"
+  },
+  {
+    "char": "软",
+    "pinyin": "ruǎn",
+    "code": "rR",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "冗",
+    "pinyin": "rǒng",
+    "code": "rS",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "入",
+    "pinyin": "rù",
+    "code": "Ru",
+    "tone_group": "四声"
+  },
+  {
+    "char": "女",
+    "pinyin": "rǔ",
+    "code": "rU",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "兑",
+    "pinyin": "ruì",
+    "code": "Rv",
+    "tone_group": "四声"
+  },
+  {
+    "char": "蕊",
+    "pinyin": "ruǐ",
+    "code": "rV",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "萨",
+    "pinyin": "sà",
+    "code": "Sa",
+    "tone_group": "四声"
+  },
+  {
+    "char": "洒",
+    "pinyin": "sǎ",
+    "code": "sA",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "撒",
+    "pinyin": "sā",
+    "code": "sa",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "嗽",
+    "pinyin": "sòu",
+    "code": "Sb",
+    "tone_group": "四声"
+  },
+  {
+    "char": "叟",
+    "pinyin": "sǒu",
+    "code": "sB",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "搜",
+    "pinyin": "sōu",
+    "code": "sb",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "色",
+    "pinyin": "sè",
+    "code": "Se",
+    "tone_group": "四声"
+  },
+  {
+    "char": "森",
+    "pinyin": "sēn",
+    "code": "sf",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "僧",
+    "pinyin": "sēng",
+    "code": "sg",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "丧",
+    "pinyin": "sàng",
+    "code": "Sh",
+    "tone_group": "四声"
+  },
+  {
+    "char": "嗓",
+    "pinyin": "sǎng",
+    "code": "sH",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "丧",
+    "pinyin": "sāng",
+    "code": "sh",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "巳",
+    "pinyin": "sì",
+    "code": "Si",
+    "tone_group": "四声"
+  },
+  {
+    "char": "死",
+    "pinyin": "sǐ",
+    "code": "sI",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "司",
+    "pinyin": "sī",
+    "code": "si",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "散",
+    "pinyin": "sàn",
+    "code": "Sj",
+    "tone_group": "四声"
+  },
+  {
+    "char": "伞",
+    "pinyin": "sǎn",
+    "code": "sJ",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "三",
+    "pinyin": "sān",
+    "code": "sj",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "扫",
+    "pinyin": "sào",
+    "code": "Sk",
+    "tone_group": "四声"
+  },
+  {
+    "char": "扫",
+    "pinyin": "sǎo",
+    "code": "sK",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "搔",
+    "pinyin": "sāo",
+    "code": "sk",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "塞",
+    "pinyin": "sài",
+    "code": "Sl",
+    "tone_group": "四声"
+  },
+  {
+    "char": "思",
+    "pinyin": "sāi",
+    "code": "sl",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "些",
+    "pinyin": "suò",
+    "code": "So",
+    "tone_group": "四声"
+  },
+  {
+    "char": "所",
+    "pinyin": "suǒ",
+    "code": "sO",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "唆",
+    "pinyin": "suō",
+    "code": "so",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "损",
+    "pinyin": "sǔn",
+    "code": "sP",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "孙",
+    "pinyin": "sūn",
+    "code": "sp",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "蒜",
+    "pinyin": "suàn",
+    "code": "Sr",
+    "tone_group": "四声"
+  },
+  {
+    "char": "酸",
+    "pinyin": "suān",
+    "code": "sr",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "讼",
+    "pinyin": "sòng",
+    "code": "Ss",
+    "tone_group": "四声"
+  },
+  {
+    "char": "耸",
+    "pinyin": "sǒng",
+    "code": "sS",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "松",
+    "pinyin": "sōng",
+    "code": "ss",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "苏",
+    "pinyin": "sù",
+    "code": "Su",
+    "tone_group": "四声"
+  },
+  {
+    "char": "俗",
+    "pinyin": "sú",
+    "code": "sU",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "苏",
+    "pinyin": "sū",
+    "code": "su",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "岁",
+    "pinyin": "suì",
+    "code": "Sv",
+    "tone_group": "四声"
+  },
+  {
+    "char": "隋",
+    "pinyin": "suí",
+    "code": "sV",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "尿",
+    "pinyin": "suī",
+    "code": "sv",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "拓",
+    "pinyin": "tà",
+    "code": "Ta",
+    "tone_group": "四声"
+  },
+  {
+    "char": "塔",
+    "pinyin": "tǎ",
+    "code": "tA",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "他",
+    "pinyin": "tā",
+    "code": "ta",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "透",
+    "pinyin": "tòu",
+    "code": "Tb",
+    "tone_group": "四声"
+  },
+  {
+    "char": "头",
+    "pinyin": "tóu",
+    "code": "tB",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "头",
+    "pinyin": "tōu",
+    "code": "tb",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "跳",
+    "pinyin": "tiào",
+    "code": "Tc",
+    "tone_group": "四声"
+  },
+  {
+    "char": "条",
+    "pinyin": "tiáo",
+    "code": "tC",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "条",
+    "pinyin": "tiāo",
+    "code": "tc",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "特",
+    "pinyin": "tè",
+    "code": "Te",
+    "tone_group": "四声"
+  },
+  {
+    "char": "疼",
+    "pinyin": "téng",
+    "code": "tG",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "熥",
+    "pinyin": "tēng",
+    "code": "tg",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "烫",
+    "pinyin": "tàng",
+    "code": "Th",
+    "tone_group": "四声"
+  },
+  {
+    "char": "倘",
+    "pinyin": "tǎng",
+    "code": "tH",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "汤",
+    "pinyin": "tāng",
+    "code": "th",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "弟",
+    "pinyin": "tì",
+    "code": "Ti",
+    "tone_group": "四声"
+  },
+  {
+    "char": "体",
+    "pinyin": "tǐ",
+    "code": "tI",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "体",
+    "pinyin": "tī",
+    "code": "ti",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "叹",
+    "pinyin": "tàn",
+    "code": "Tj",
+    "tone_group": "四声"
+  },
+  {
+    "char": "坛",
+    "pinyin": "tán",
+    "code": "tJ",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "贪",
+    "pinyin": "tān",
+    "code": "tj",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "套",
+    "pinyin": "tào",
+    "code": "Tk",
+    "tone_group": "四声"
+  },
+  {
+    "char": "讨",
+    "pinyin": "tǎo",
+    "code": "tK",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "叨",
+    "pinyin": "tāo",
+    "code": "tk",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "大",
+    "pinyin": "tài",
+    "code": "Tl",
+    "tone_group": "四声"
+  },
+  {
+    "char": "台",
+    "pinyin": "tái",
+    "code": "tL",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "台",
+    "pinyin": "tāi",
+    "code": "tl",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "掭",
+    "pinyin": "tiàn",
+    "code": "Tm",
+    "tone_group": "四声"
+  },
+  {
+    "char": "田",
+    "pinyin": "tián",
+    "code": "tM",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "天",
+    "pinyin": "tiān",
+    "code": "tm",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "拓",
+    "pinyin": "tuò",
+    "code": "To",
+    "tone_group": "四声"
+  },
+  {
+    "char": "驮",
+    "pinyin": "tuó",
+    "code": "tO",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "托",
+    "pinyin": "tuō",
+    "code": "to",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "褪",
+    "pinyin": "tùn",
+    "code": "Tp",
+    "tone_group": "四声"
+  },
+  {
+    "char": "屯",
+    "pinyin": "tún",
+    "code": "tP",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "吞",
+    "pinyin": "tūn",
+    "code": "tp",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "彖",
+    "pinyin": "tuàn",
+    "code": "Tr",
+    "tone_group": "四声"
+  },
+  {
+    "char": "团",
+    "pinyin": "tuán",
+    "code": "tR",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "湍",
+    "pinyin": "tuān",
+    "code": "tr",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "同",
+    "pinyin": "tòng",
+    "code": "Ts",
+    "tone_group": "四声"
+  },
+  {
+    "char": "同",
+    "pinyin": "tóng",
+    "code": "tS",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "通",
+    "pinyin": "tōng",
+    "code": "ts",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "吐",
+    "pinyin": "tù",
+    "code": "Tu",
+    "tone_group": "四声"
+  },
+  {
+    "char": "土",
+    "pinyin": "tǔ",
+    "code": "tU",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "凸",
+    "pinyin": "tū",
+    "code": "tu",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "退",
+    "pinyin": "tuì",
+    "code": "Tv",
+    "tone_group": "四声"
+  },
+  {
+    "char": "弟",
+    "pinyin": "tuí",
+    "code": "tV",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "推",
+    "pinyin": "tuī",
+    "code": "tv",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "帖",
+    "pinyin": "tiè",
+    "code": "Tx",
+    "tone_group": "四声"
+  },
+  {
+    "char": "帖",
+    "pinyin": "tiě",
+    "code": "tX",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "帖",
+    "pinyin": "tiē",
+    "code": "tx",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "梃",
+    "pinyin": "tìng",
+    "code": "Ty",
+    "tone_group": "四声"
+  },
+  {
+    "char": "廷",
+    "pinyin": "tíng",
+    "code": "tY",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "厅",
+    "pinyin": "tīng",
+    "code": "ty",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "沙",
+    "pinyin": "shà",
+    "code": "Ua",
+    "tone_group": "四声"
+  },
+  {
+    "char": "啥",
+    "pinyin": "shá",
+    "code": "uA",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "杀",
+    "pinyin": "shā",
+    "code": "ua",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "寿",
+    "pinyin": "shòu",
+    "code": "Ub",
+    "tone_group": "四声"
+  },
+  {
+    "char": "手",
+    "pinyin": "shǒu",
+    "code": "uB",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "收",
+    "pinyin": "shōu",
+    "code": "ub",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "爽",
+    "pinyin": "shuǎng",
+    "code": "uD",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "双",
+    "pinyin": "shuāng",
+    "code": "ud",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "设",
+    "pinyin": "shè",
+    "code": "Ue",
+    "tone_group": "四声"
+  },
+  {
+    "char": "舌",
+    "pinyin": "shé",
+    "code": "uE",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "奢",
+    "pinyin": "shē",
+    "code": "ue",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "肾",
+    "pinyin": "shèn",
+    "code": "Uf",
+    "tone_group": "四声"
+  },
+  {
+    "char": "什",
+    "pinyin": "shén",
+    "code": "uF",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "申",
+    "pinyin": "shēn",
+    "code": "uf",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "圣",
+    "pinyin": "shèng",
+    "code": "Ug",
+    "tone_group": "四声"
+  },
+  {
+    "char": "省",
+    "pinyin": "shěng",
+    "code": "uG",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "升",
+    "pinyin": "shēng",
+    "code": "ug",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "上",
+    "pinyin": "shàng",
+    "code": "Uh",
+    "tone_group": "四声"
+  },
+  {
+    "char": "上",
+    "pinyin": "shǎng",
+    "code": "uH",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "上",
+    "pinyin": "shāng",
+    "code": "uh",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "士",
+    "pinyin": "shì",
+    "code": "Ui",
+    "tone_group": "四声"
+  },
+  {
+    "char": "十",
+    "pinyin": "shí",
+    "code": "uI",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "尸",
+    "pinyin": "shī",
+    "code": "ui",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "单",
+    "pinyin": "shàn",
+    "code": "Uj",
+    "tone_group": "四声"
+  },
+  {
+    "char": "闪",
+    "pinyin": "shǎn",
+    "code": "uJ",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "山",
+    "pinyin": "shān",
+    "code": "uj",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "少",
+    "pinyin": "shào",
+    "code": "Uk",
+    "tone_group": "四声"
+  },
+  {
+    "char": "勺",
+    "pinyin": "sháo",
+    "code": "uK",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "捎",
+    "pinyin": "shāo",
+    "code": "uk",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "晒",
+    "pinyin": "shài",
+    "code": "Ul",
+    "tone_group": "四声"
+  },
+  {
+    "char": "色",
+    "pinyin": "shǎi",
+    "code": "uL",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "筛",
+    "pinyin": "shāi",
+    "code": "ul",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "烁",
+    "pinyin": "shuò",
+    "code": "Uo",
+    "tone_group": "四声"
+  },
+  {
+    "char": "说",
+    "pinyin": "shuō",
+    "code": "uo",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "顺",
+    "pinyin": "shùn",
+    "code": "Up",
+    "tone_group": "四声"
+  },
+  {
+    "char": "吮",
+    "pinyin": "shǔn",
+    "code": "uP",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "涮",
+    "pinyin": "shuàn",
+    "code": "Ur",
+    "tone_group": "四声"
+  },
+  {
+    "char": "拴",
+    "pinyin": "shuān",
+    "code": "ur",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "术",
+    "pinyin": "shù",
+    "code": "Uu",
+    "tone_group": "四声"
+  },
+  {
+    "char": "术",
+    "pinyin": "shú",
+    "code": "uU",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "书",
+    "pinyin": "shū",
+    "code": "uu",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "说",
+    "pinyin": "shuì",
+    "code": "Uv",
+    "tone_group": "四声"
+  },
+  {
+    "char": "水",
+    "pinyin": "shuǐ",
+    "code": "uV",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "刷",
+    "pinyin": "shuà",
+    "code": "Uw",
+    "tone_group": "四声"
+  },
+  {
+    "char": "耍",
+    "pinyin": "shuǎ",
+    "code": "uW",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "刷",
+    "pinyin": "shuā",
+    "code": "uw",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "帅",
+    "pinyin": "shuài",
+    "code": "Uy",
+    "tone_group": "四声"
+  },
+  {
+    "char": "甩",
+    "pinyin": "shuǎi",
+    "code": "uY",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "衰",
+    "pinyin": "shuāi",
+    "code": "uy",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "谁",
+    "pinyin": "shéi",
+    "code": "uZ",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "乍",
+    "pinyin": "zhà",
+    "code": "Va",
+    "tone_group": "四声"
+  },
+  {
+    "char": "扎",
+    "pinyin": "zhá",
+    "code": "vA",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "扎",
+    "pinyin": "zhā",
+    "code": "va",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "咒",
+    "pinyin": "zhòu",
+    "code": "Vb",
+    "tone_group": "四声"
+  },
+  {
+    "char": "肘",
+    "pinyin": "zhǒu",
+    "code": "vB",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "舟",
+    "pinyin": "zhōu",
+    "code": "vb",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "壮",
+    "pinyin": "zhuàng",
+    "code": "Vd",
+    "tone_group": "四声"
+  },
+  {
+    "char": "奘",
+    "pinyin": "zhuǎng",
+    "code": "vD",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "妆",
+    "pinyin": "zhuāng",
+    "code": "vd",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "这",
+    "pinyin": "zhè",
+    "code": "Ve",
+    "tone_group": "四声"
+  },
+  {
+    "char": "折",
+    "pinyin": "zhé",
+    "code": "vE",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "折",
+    "pinyin": "zhē",
+    "code": "ve",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "阵",
+    "pinyin": "zhèn",
+    "code": "Vf",
+    "tone_group": "四声"
+  },
+  {
+    "char": "诊",
+    "pinyin": "zhěn",
+    "code": "vF",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "贞",
+    "pinyin": "zhēn",
+    "code": "vf",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "正",
+    "pinyin": "zhèng",
+    "code": "Vg",
+    "tone_group": "四声"
+  },
+  {
+    "char": "拯",
+    "pinyin": "zhěng",
+    "code": "vG",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "丁",
+    "pinyin": "zhēng",
+    "code": "vg",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "丈",
+    "pinyin": "zhàng",
+    "code": "Vh",
+    "tone_group": "四声"
+  },
+  {
+    "char": "长",
+    "pinyin": "zhǎng",
+    "code": "vH",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "张",
+    "pinyin": "zhāng",
+    "code": "vh",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "至",
+    "pinyin": "zhì",
+    "code": "Vi",
+    "tone_group": "四声"
+  },
+  {
+    "char": "止",
+    "pinyin": "zhǐ",
+    "code": "vI",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "之",
+    "pinyin": "zhī",
+    "code": "vi",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "占",
+    "pinyin": "zhàn",
+    "code": "Vj",
+    "tone_group": "四声"
+  },
+  {
+    "char": "斩",
+    "pinyin": "zhǎn",
+    "code": "vJ",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "占",
+    "pinyin": "zhān",
+    "code": "vj",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "召",
+    "pinyin": "zhào",
+    "code": "Vk",
+    "tone_group": "四声"
+  },
+  {
+    "char": "爪",
+    "pinyin": "zhǎo",
+    "code": "vK",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "召",
+    "pinyin": "zhāo",
+    "code": "vk",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "责",
+    "pinyin": "zhài",
+    "code": "Vl",
+    "tone_group": "四声"
+  },
+  {
+    "char": "宅",
+    "pinyin": "zhái",
+    "code": "vL",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "齐",
+    "pinyin": "zhāi",
+    "code": "vl",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "灼",
+    "pinyin": "zhuó",
+    "code": "vO",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "拙",
+    "pinyin": "zhuō",
+    "code": "vo",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "𬘯",
+    "pinyin": "zhùn",
+    "code": "Vp",
+    "tone_group": "四声"
+  },
+  {
+    "char": "准",
+    "pinyin": "zhǔn",
+    "code": "vP",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "屯",
+    "pinyin": "zhūn",
+    "code": "vp",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "传",
+    "pinyin": "zhuàn",
+    "code": "Vr",
+    "tone_group": "四声"
+  },
+  {
+    "char": "转",
+    "pinyin": "zhuǎn",
+    "code": "vR",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "专",
+    "pinyin": "zhuān",
+    "code": "vr",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "中",
+    "pinyin": "zhòng",
+    "code": "Vs",
+    "tone_group": "四声"
+  },
+  {
+    "char": "肿",
+    "pinyin": "zhǒng",
+    "code": "vS",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "中",
+    "pinyin": "zhōng",
+    "code": "vs",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "宁",
+    "pinyin": "zhù",
+    "code": "Vu",
+    "tone_group": "四声"
+  },
+  {
+    "char": "术",
+    "pinyin": "zhú",
+    "code": "vU",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "朱",
+    "pinyin": "zhū",
+    "code": "vu",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "坠",
+    "pinyin": "zhuì",
+    "code": "Vv",
+    "tone_group": "四声"
+  },
+  {
+    "char": "追",
+    "pinyin": "zhuī",
+    "code": "vv",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "爪",
+    "pinyin": "zhuǎ",
+    "code": "vW",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "抓",
+    "pinyin": "zhuā",
+    "code": "vw",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "拽",
+    "pinyin": "zhuài",
+    "code": "Vy",
+    "tone_group": "四声"
+  },
+  {
+    "char": "转",
+    "pinyin": "zhuǎi",
+    "code": "vY",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "拽",
+    "pinyin": "zhuāi",
+    "code": "vy",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "这",
+    "pinyin": "zhèi",
+    "code": "Vz",
+    "tone_group": "四声"
+  },
+  {
+    "char": "瓦",
+    "pinyin": "wà",
+    "code": "Wa",
+    "tone_group": "四声"
+  },
+  {
+    "char": "瓦",
+    "pinyin": "wǎ",
+    "code": "wA",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "凹",
+    "pinyin": "wā",
+    "code": "wa",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "问",
+    "pinyin": "wèn",
+    "code": "Wf",
+    "tone_group": "四声"
+  },
+  {
+    "char": "文",
+    "pinyin": "wén",
+    "code": "wF",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "温",
+    "pinyin": "wēn",
+    "code": "wf",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "瓮",
+    "pinyin": "wèng",
+    "code": "Wg",
+    "tone_group": "四声"
+  },
+  {
+    "char": "蓊",
+    "pinyin": "wěng",
+    "code": "wG",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "翁",
+    "pinyin": "wēng",
+    "code": "wg",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "王",
+    "pinyin": "wàng",
+    "code": "Wh",
+    "tone_group": "四声"
+  },
+  {
+    "char": "亡",
+    "pinyin": "wáng",
+    "code": "wH",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "汪",
+    "pinyin": "wāng",
+    "code": "wh",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "万",
+    "pinyin": "wàn",
+    "code": "Wj",
+    "tone_group": "四声"
+  },
+  {
+    "char": "丸",
+    "pinyin": "wán",
+    "code": "wJ",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "弯",
+    "pinyin": "wān",
+    "code": "wj",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "外",
+    "pinyin": "wài",
+    "code": "Wl",
+    "tone_group": "四声"
+  },
+  {
+    "char": "崴",
+    "pinyin": "wǎi",
+    "code": "wL",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "歪",
+    "pinyin": "wāi",
+    "code": "wl",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "沃",
+    "pinyin": "wò",
+    "code": "Wo",
+    "tone_group": "四声"
+  },
+  {
+    "char": "我",
+    "pinyin": "wǒ",
+    "code": "wO",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "涡",
+    "pinyin": "wō",
+    "code": "wo",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "勿",
+    "pinyin": "wù",
+    "code": "Wu",
+    "tone_group": "四声"
+  },
+  {
+    "char": "亡",
+    "pinyin": "wú",
+    "code": "wU",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "乌",
+    "pinyin": "wū",
+    "code": "wu",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "卫",
+    "pinyin": "wèi",
+    "code": "Wz",
+    "tone_group": "四声"
+  },
+  {
+    "char": "为",
+    "pinyin": "wéi",
+    "code": "wZ",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "危",
+    "pinyin": "wēi",
+    "code": "wz",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "孝",
+    "pinyin": "xiào",
+    "code": "Xc",
+    "tone_group": "四声"
+  },
+  {
+    "char": "小",
+    "pinyin": "xiǎo",
+    "code": "xC",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "肖",
+    "pinyin": "xiāo",
+    "code": "xc",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "向",
+    "pinyin": "xiàng",
+    "code": "Xd",
+    "tone_group": "四声"
+  },
+  {
+    "char": "羊",
+    "pinyin": "xiáng",
+    "code": "xD",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "乡",
+    "pinyin": "xiāng",
+    "code": "xd",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "戏",
+    "pinyin": "xì",
+    "code": "Xi",
+    "tone_group": "四声"
+  },
+  {
+    "char": "习",
+    "pinyin": "xí",
+    "code": "xI",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "夕",
+    "pinyin": "xī",
+    "code": "xi",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "见",
+    "pinyin": "xiàn",
+    "code": "Xm",
+    "tone_group": "四声"
+  },
+  {
+    "char": "闲",
+    "pinyin": "xián",
+    "code": "xM",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "仙",
+    "pinyin": "xiān",
+    "code": "xm",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "芯",
+    "pinyin": "xìn",
+    "code": "Xn",
+    "tone_group": "四声"
+  },
+  {
+    "char": "镡",
+    "pinyin": "xín",
+    "code": "xN",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "心",
+    "pinyin": "xīn",
+    "code": "xn",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "训",
+    "pinyin": "xùn",
+    "code": "Xp",
+    "tone_group": "四声"
+  },
+  {
+    "char": "旬",
+    "pinyin": "xún",
+    "code": "xP",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "勋",
+    "pinyin": "xūn",
+    "code": "xp",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "秀",
+    "pinyin": "xiù",
+    "code": "Xq",
+    "tone_group": "四声"
+  },
+  {
+    "char": "朽",
+    "pinyin": "xiǔ",
+    "code": "xQ",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "休",
+    "pinyin": "xiū",
+    "code": "xq",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "券",
+    "pinyin": "xuàn",
+    "code": "Xr",
+    "tone_group": "四声"
+  },
+  {
+    "char": "玄",
+    "pinyin": "xuán",
+    "code": "xR",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "轩",
+    "pinyin": "xuān",
+    "code": "xr",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "诇",
+    "pinyin": "xiòng",
+    "code": "Xs",
+    "tone_group": "四声"
+  },
+  {
+    "char": "雄",
+    "pinyin": "xióng",
+    "code": "xS",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "凶",
+    "pinyin": "xiōng",
+    "code": "xs",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "血",
+    "pinyin": "xuè",
+    "code": "Xt",
+    "tone_group": "四声"
+  },
+  {
+    "char": "穴",
+    "pinyin": "xué",
+    "code": "xT",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "削",
+    "pinyin": "xuē",
+    "code": "xt",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "旭",
+    "pinyin": "xù",
+    "code": "Xu",
+    "tone_group": "四声"
+  },
+  {
+    "char": "邪",
+    "pinyin": "xú",
+    "code": "xU",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "戌",
+    "pinyin": "xū",
+    "code": "xu",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "下",
+    "pinyin": "xià",
+    "code": "Xw",
+    "tone_group": "四声"
+  },
+  {
+    "char": "夹",
+    "pinyin": "xiá",
+    "code": "xW",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "虾",
+    "pinyin": "xiā",
+    "code": "xw",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "泄",
+    "pinyin": "xiè",
+    "code": "Xx",
+    "tone_group": "四声"
+  },
+  {
+    "char": "叶",
+    "pinyin": "xié",
+    "code": "xX",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "些",
+    "pinyin": "xiē",
+    "code": "xx",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "兴",
+    "pinyin": "xìng",
+    "code": "Xy",
+    "tone_group": "四声"
+  },
+  {
+    "char": "刑",
+    "pinyin": "xíng",
+    "code": "xY",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "兴",
+    "pinyin": "xīng",
+    "code": "xy",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "轧",
+    "pinyin": "yà",
+    "code": "Ya",
+    "tone_group": "四声"
+  },
+  {
+    "char": "牙",
+    "pinyin": "yá",
+    "code": "yA",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "丫",
+    "pinyin": "yā",
+    "code": "ya",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "又",
+    "pinyin": "yòu",
+    "code": "Yb",
+    "tone_group": "四声"
+  },
+  {
+    "char": "友",
+    "pinyin": "yǒu",
+    "code": "yB",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "优",
+    "pinyin": "yōu",
+    "code": "yb",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "业",
+    "pinyin": "yè",
+    "code": "Ye",
+    "tone_group": "四声"
+  },
+  {
+    "char": "也",
+    "pinyin": "yě",
+    "code": "yE",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "椰",
+    "pinyin": "yē",
+    "code": "ye",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "样",
+    "pinyin": "yàng",
+    "code": "Yh",
+    "tone_group": "四声"
+  },
+  {
+    "char": "扬",
+    "pinyin": "yáng",
+    "code": "yH",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "央",
+    "pinyin": "yāng",
+    "code": "yh",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "亿",
+    "pinyin": "yì",
+    "code": "Yi",
+    "tone_group": "四声"
+  },
+  {
+    "char": "乙",
+    "pinyin": "yǐ",
+    "code": "yI",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "一",
+    "pinyin": "yī",
+    "code": "yi",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "厌",
+    "pinyin": "yàn",
+    "code": "Yj",
+    "tone_group": "四声"
+  },
+  {
+    "char": "延",
+    "pinyin": "yán",
+    "code": "yJ",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "咽",
+    "pinyin": "yān",
+    "code": "yj",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "乐",
+    "pinyin": "yào",
+    "code": "Yk",
+    "tone_group": "四声"
+  },
+  {
+    "char": "尧",
+    "pinyin": "yáo",
+    "code": "yK",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "么",
+    "pinyin": "yāo",
+    "code": "yk",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "印",
+    "pinyin": "yìn",
+    "code": "Yn",
+    "tone_group": "四声"
+  },
+  {
+    "char": "引",
+    "pinyin": "yǐn",
+    "code": "yN",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "因",
+    "pinyin": "yīn",
+    "code": "yn",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "育",
+    "pinyin": "yō",
+    "code": "yo",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "孕",
+    "pinyin": "yùn",
+    "code": "Yp",
+    "tone_group": "四声"
+  },
+  {
+    "char": "云",
+    "pinyin": "yún",
+    "code": "yP",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "晕",
+    "pinyin": "yūn",
+    "code": "yp",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "远",
+    "pinyin": "yuàn",
+    "code": "Yr",
+    "tone_group": "四声"
+  },
+  {
+    "char": "元",
+    "pinyin": "yuán",
+    "code": "yR",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "宛",
+    "pinyin": "yuān",
+    "code": "yr",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "用",
+    "pinyin": "yòng",
+    "code": "Ys",
+    "tone_group": "四声"
+  },
+  {
+    "char": "永",
+    "pinyin": "yǒng",
+    "code": "yS",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "佣",
+    "pinyin": "yōng",
+    "code": "ys",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "月",
+    "pinyin": "yuè",
+    "code": "Yt",
+    "tone_group": "四声"
+  },
+  {
+    "char": "哕",
+    "pinyin": "yuě",
+    "code": "yT",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "曰",
+    "pinyin": "yuē",
+    "code": "yt",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "与",
+    "pinyin": "yù",
+    "code": "Yu",
+    "tone_group": "四声"
+  },
+  {
+    "char": "于",
+    "pinyin": "yú",
+    "code": "yU",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "迂",
+    "pinyin": "yū",
+    "code": "yu",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "应",
+    "pinyin": "yìng",
+    "code": "Yy",
+    "tone_group": "四声"
+  },
+  {
+    "char": "迎",
+    "pinyin": "yíng",
+    "code": "yY",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "应",
+    "pinyin": "yīng",
+    "code": "yy",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "杂",
+    "pinyin": "zá",
+    "code": "zA",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "扎",
+    "pinyin": "zā",
+    "code": "za",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "奏",
+    "pinyin": "zòu",
+    "code": "Zb",
+    "tone_group": "四声"
+  },
+  {
+    "char": "走",
+    "pinyin": "zǒu",
+    "code": "zB",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "邹",
+    "pinyin": "zōu",
+    "code": "zb",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "侧",
+    "pinyin": "zè",
+    "code": "Ze",
+    "tone_group": "四声"
+  },
+  {
+    "char": "则",
+    "pinyin": "zé",
+    "code": "zE",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "谮",
+    "pinyin": "zèn",
+    "code": "Zf",
+    "tone_group": "四声"
+  },
+  {
+    "char": "怎",
+    "pinyin": "zěn",
+    "code": "zF",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "综",
+    "pinyin": "zèng",
+    "code": "Zg",
+    "tone_group": "四声"
+  },
+  {
+    "char": "曾",
+    "pinyin": "zēng",
+    "code": "zg",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "脏",
+    "pinyin": "zàng",
+    "code": "Zh",
+    "tone_group": "四声"
+  },
+  {
+    "char": "驵",
+    "pinyin": "zǎng",
+    "code": "zH",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "赃",
+    "pinyin": "zāng",
+    "code": "zh",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "自",
+    "pinyin": "zì",
+    "code": "Zi",
+    "tone_group": "四声"
+  },
+  {
+    "char": "子",
+    "pinyin": "zǐ",
+    "code": "zI",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "仔",
+    "pinyin": "zī",
+    "code": "zi",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "暂",
+    "pinyin": "zàn",
+    "code": "Zj",
+    "tone_group": "四声"
+  },
+  {
+    "char": "咱",
+    "pinyin": "zán",
+    "code": "zJ",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "咱",
+    "pinyin": "zān",
+    "code": "zj",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "皂",
+    "pinyin": "zào",
+    "code": "Zk",
+    "tone_group": "四声"
+  },
+  {
+    "char": "早",
+    "pinyin": "zǎo",
+    "code": "zK",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "遭",
+    "pinyin": "zāo",
+    "code": "zk",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "再",
+    "pinyin": "zài",
+    "code": "Zl",
+    "tone_group": "四声"
+  },
+  {
+    "char": "仔",
+    "pinyin": "zǎi",
+    "code": "zL",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "灾",
+    "pinyin": "zāi",
+    "code": "zl",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "作",
+    "pinyin": "zuò",
+    "code": "Zo",
+    "tone_group": "四声"
+  },
+  {
+    "char": "左",
+    "pinyin": "zuǒ",
+    "code": "zO",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "作",
+    "pinyin": "zuō",
+    "code": "zo",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "撙",
+    "pinyin": "zǔn",
+    "code": "zP",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "尊",
+    "pinyin": "zūn",
+    "code": "zp",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "钻",
+    "pinyin": "zuàn",
+    "code": "Zr",
+    "tone_group": "四声"
+  },
+  {
+    "char": "缵",
+    "pinyin": "zuǎn",
+    "code": "zR",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "钻",
+    "pinyin": "zuān",
+    "code": "zr",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "从",
+    "pinyin": "zòng",
+    "code": "Zs",
+    "tone_group": "四声"
+  },
+  {
+    "char": "纵",
+    "pinyin": "zǒng",
+    "code": "zS",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "宗",
+    "pinyin": "zōng",
+    "code": "zs",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "足",
+    "pinyin": "zú",
+    "code": "zU",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "租",
+    "pinyin": "zū",
+    "code": "zu",
+    "tone_group": "轻声/一声"
+  },
+  {
+    "char": "最",
+    "pinyin": "zuì",
+    "code": "Zv",
+    "tone_group": "四声"
+  },
+  {
+    "char": "嘴",
+    "pinyin": "zuǐ",
+    "code": "zV",
+    "tone_group": "二声/三声"
+  },
+  {
+    "char": "贼",
+    "pinyin": "zéi",
+    "code": "zZ",
+    "tone_group": "二声/三声"
+  }
+]
