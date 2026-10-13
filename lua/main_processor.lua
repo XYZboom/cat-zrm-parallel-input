@@ -871,8 +871,8 @@ local function processor(key_event, env)
                         return commitText(groups[#groups], "（" .. getCand(0, context, segment, true).text .. "）", engine, context, env)
                     end
                 elseif (key_event.keycode == 114) then
-                    -- er：用中文双引号包裹首选候选并上屏
-                    if (check(groups[#groups])) then
+                    -- er：仅声调模式使用中文双引号包裹首选候选；无声调模式作为普通 er 音节输入
+                    if (not context:get_option("no_tone") and check(groups[#groups])) then
                         return commitText(groups[#groups], "“" .. getCand(0, context, segment, true).text .. "”", engine, context, env)
                     end
                 elseif (key_event.keycode == 119) then
